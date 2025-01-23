@@ -121,3 +121,66 @@ Total speech papers@ICLR25 number is **70+**; We select  **36** papers.
 ### Simple summary
 
 The accepted(or not) status depends on rate mainly. The rate of speech/audio track is not high, which is much less than the tracks like CV, NLP, etc. **The rebuttals are very important!!!**
+
+## ICLR'24
+
+### Speech
+
+It includes the papers on speech (rate is good or middle, often more than 5), not limited to accepted or not.
+
+Total speech papers@ICLR24 number is **50+**; We select  **20** papers.
+
+| Paper                                                        | status             | average rate |
+| ------------------------------------------------------------ | ------------------ | ------------ |
+| [NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://openreview.net/forum?id=Rc7dAwVL3v) | Spot               | 8.00         |
+| [ Large Language Models are Efficient Learners of Noise-Robust Speech Recognition](https://openreview.net/forum?id=ceATjGPTUD) | Spot               | 8.00         |
+| [ Multi-resolution HuBERT: Multi-resolution Speech Self-Supervised Learning with Masked Unit Prediction](https://openreview.net/forum?id=kUuKFW7DIF) | Spot               | 8.00         |
+| [Zipformer: A faster and better encoder for automatic speech recognition](https://openreview.net/forum?id=9WD9KwssyT) | Oral               | 7.50         |
+| [ RTFS-Net: Recurrent Time-Frequency Modelling for Efficient Audio-Visual Speech Separation](https://openreview.net/forum?id=PEuDO2EiDr) |                    | 7.50         |
+| [Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech](https://openreview.net/forum?id=ale56Ya59q) |                    | 7.00         |
+| [Spoken Question Answering and Speech Continuation Using Spectrogram-Powered LLM](https://openreview.net/forum?id=izrOLJov5y) |                    | 6.75         |
+| [It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition](https://openreview.net/forum?id=QqjFHyQwtF) |                    | 6.60         |
+| [ Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) |                    | 6.50         |
+| [CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech](https://openreview.net/forum?id=ofzeypWosV) |                    | 6.40         |
+| [BLSP: Bootstrapping Language-Speech Pre-training via Behavior Alignment of Continuation Writing](https://openreview.net/forum?id=H4zAFFyoXK) | 5668, re           | 6.25         |
+| [TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation](https://openreview.net/forum?id=71oyMJiUm2) | 5668, desk re      | 6.25         |
+| [ Multilingual Visual Speech Recognition with a Single Model using Visual Speech Unit](https://openreview.net/forum?id=M8J0b9gNfG) | 56668, re          | 6.20         |
+| [PolyVoice: Language Models for Speech to Speech Translation](https://openreview.net/forum?id=hCrFG9cyuC) | **3588, accepted** | 6.00         |
+| [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://openreview.net/forum?id=PORUmWsgBN) | 5568, re           | 6.00         |
+| [ LipVoicer: Generating Speech from Silent Videos Guided by Lip Reading](https://openreview.net/forum?id=ZZCPSC5OgD) | **5568,accepted**  | 6.00         |
+| [ Generative Pre-training for Speech with Flow Matching](https://openreview.net/forum?id=KpoQSgxbKH) | **3668,accepted**  | 5.75         |
+| [DiffAR: Denoising Diffusion Autoregressive Model for Raw Speech Waveform Generation](https://openreview.net/forum?id=GTk0AdOYLq) | **5666,accepted**  | 5.75         |
+| [SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models](https://openreview.net/forum?id=AF9Q8Vip84) | **3668,accepted**  | 5.75         |
+| [SummaryMixing: A Linear-Complexity Alternative to Self-Attention for Speech Recognition and Understanding](https://openreview.net/forum?id=PoBB8n52oi) | 3568, re           | 5.75         |
+| [ RepCodec: A Speech Representation Codec for Speech Tokenization](https://openreview.net/forum?id=LfDUzzQa3g) | 5566, re           | 5.50         |
+| [ A Discrete and Variational Approach to Speech Representation Learning](https://openreview.net/forum?id=rQRDt8F2Yh) | 33588, withdraw    | 5.40         |
+| [Generative Pre-Trained Speech Language Model with Efficient Hierarchical Transformer](https://openreview.net/forum?id=TJNCnkDRkY) | 5556, re           | 5.25         |
+
+### Audio
+
+It includes the papers on speech (rate is good or middle, often more than 5), not limited to accepted or not.
+
+Total speech papers@ICLR24 number is **20+**; We select  **16** papers.
+
+| Paper                                                        | status                      | average rate |
+| ------------------------------------------------------------ | --------------------------- | ------------ |
+| [Masked Audio Generation using a Single Non-Autoregressive Transformer](https://openreview.net/forum?id=Ny8NiVfi95) |                             | 7.33         |
+| [Revisiting Deep Audio-Text Retrieval Through the Lens of Transportation](https://openreview.net/forum?id=l60EM8md3t) |                             | 6.67         |
+| [ Weakly-supervised Audio Separation via Bi-modal Semantic Similarity](https://openreview.net/forum?id=4N97bz1sP6) |                             | 6.67         |
+| [CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models](https://openreview.net/forum?id=86NGO8qeWs) |                             | 6.50         |
+| [Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis](https://openreview.net/forum?id=vY9nzQmQBw) |                             | 6.00         |
+| [ Lifelong Audio-video Masked Autoencoder with Forget-robust Localized Alignments](https://openreview.net/forum?id=GGPyzKsHZ1) | 55558， re                  | 5.60         |
+| [ LAURAGPT: LISTEN, ATTEND, UNDERSTAND, AND REGENERATE AUDIO WITH GPT](https://openreview.net/forum?id=jDy2Djjrge) | 5566， re                   | 5.50         |
+| [SoundStorm: Efficient Parallel Audio Generation](https://openreview.net/forum?id=KknWbD5j95) | 35568, re                   | 5.40         |
+| [Bootstrapping Audio-Visual Segmentation by Strengthening Audio Cues](https://openreview.net/forum?id=WdWGe88RdX) | 3666, re                    | 5.25         |
+| [FINE-GRAINED AUDIO-VISUAL JOINT REPRESENTATIONS FOR MULTIMODAL LARGE LANGUAGE MODELS](https://openreview.net/forum?id=wD8L86iCvD) | 3666, re                    | 5.25         |
+| [ UniAudio: An Audio Foundation Model Toward Universal Audio Generation](https://openreview.net/forum?id=nhgTmx1TZJ) | 15510, re, accept by icml24 | 5.25         |
+| [Masked Autoencoders with Multi-Window Local-Global Attention Are Better Audio Learners](https://openreview.net/forum?id=Q53QLftNkA) | 3666, re                    | 5.25         |
+| [ SMILE: Audio-Visual Speech Recognition with Siamese Masked Interaction Learning](https://openreview.net/forum?id=74IIsh2kM6) | 5555, re                    | 5.00         |
+| [Leveraging characteristics of the output distribution for identifying adversarial audio examples](https://openreview.net/forum?id=R1crLHQ4kf) | 5555, re                    | 5.00         |
+| [Rethinking Audiovisual Segmentation with Semantic Quantization and Decomposition](https://openreview.net/forum?id=nuWVS4SBUu) | 5555, re                    | 5.00         |
+| [ WavJourney: Compositional Audio Creation with Large Language Models](https://openreview.net/forum?id=8JCn0kmS8W) | 35566, re                   | 5.00         |
+
+### Simple summary
+
+This year, the paper's number is not so large.
