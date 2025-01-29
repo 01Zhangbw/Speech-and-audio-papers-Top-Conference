@@ -136,31 +136,31 @@ It includes the papers on speech (rate is good or middle, often more than 5), no
 
 Total speech papers@ICLR24 number is **50+**; We select  **20** papers.
 
-| Paper                                                        | status             | average rate |
-| ------------------------------------------------------------ | ------------------ | ------------ |
-| [NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://openreview.net/forum?id=Rc7dAwVL3v) | Spot               | 8.00         |
-| [ Large Language Models are Efficient Learners of Noise-Robust Speech Recognition](https://openreview.net/forum?id=ceATjGPTUD) | Spot               | 8.00         |
-| [ Multi-resolution HuBERT: Multi-resolution Speech Self-Supervised Learning with Masked Unit Prediction](https://openreview.net/forum?id=kUuKFW7DIF) | Spot               | 8.00         |
-| [Zipformer: A faster and better encoder for automatic speech recognition](https://openreview.net/forum?id=9WD9KwssyT) | Oral               | 7.50         |
-| [ RTFS-Net: Recurrent Time-Frequency Modelling for Efficient Audio-Visual Speech Separation](https://openreview.net/forum?id=PEuDO2EiDr) |                    | 7.50         |
-| [Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech](https://openreview.net/forum?id=ale56Ya59q) |                    | 7.00         |
-| [Spoken Question Answering and Speech Continuation Using Spectrogram-Powered LLM](https://openreview.net/forum?id=izrOLJov5y) |                    | 6.75         |
-| [It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition](https://openreview.net/forum?id=QqjFHyQwtF) |                    | 6.60         |
-| [ Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) |                    | 6.50         |
-| [CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech](https://openreview.net/forum?id=ofzeypWosV) |                    | 6.40         |
-| [BLSP: Bootstrapping Language-Speech Pre-training via Behavior Alignment of Continuation Writing](https://openreview.net/forum?id=H4zAFFyoXK) | 5668, re           | 6.25         |
-| [TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation](https://openreview.net/forum?id=71oyMJiUm2) | 5668, desk re      | 6.25         |
-| [ Multilingual Visual Speech Recognition with a Single Model using Visual Speech Unit](https://openreview.net/forum?id=M8J0b9gNfG) | 56668, re          | 6.20         |
-| [PolyVoice: Language Models for Speech to Speech Translation](https://openreview.net/forum?id=hCrFG9cyuC) | **3588, accepted** | 6.00         |
-| [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://openreview.net/forum?id=PORUmWsgBN) | 5568, re           | 6.00         |
-| [ LipVoicer: Generating Speech from Silent Videos Guided by Lip Reading](https://openreview.net/forum?id=ZZCPSC5OgD) | **5568,accepted**  | 6.00         |
-| [ Generative Pre-training for Speech with Flow Matching](https://openreview.net/forum?id=KpoQSgxbKH) | **3668,accepted**  | 5.75         |
-| [DiffAR: Denoising Diffusion Autoregressive Model for Raw Speech Waveform Generation](https://openreview.net/forum?id=GTk0AdOYLq) | **5666,accepted**  | 5.75         |
-| [SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models](https://openreview.net/forum?id=AF9Q8Vip84) | **3668,accepted**  | 5.75         |
-| [SummaryMixing: A Linear-Complexity Alternative to Self-Attention for Speech Recognition and Understanding](https://openreview.net/forum?id=PoBB8n52oi) | 3568, re           | 5.75         |
-| [ RepCodec: A Speech Representation Codec for Speech Tokenization](https://openreview.net/forum?id=LfDUzzQa3g) | 5566, re           | 5.50         |
-| [ A Discrete and Variational Approach to Speech Representation Learning](https://openreview.net/forum?id=rQRDt8F2Yh) | 33588, withdraw    | 5.40         |
-| [Generative Pre-Trained Speech Language Model with Efficient Hierarchical Transformer](https://openreview.net/forum?id=TJNCnkDRkY) | 5556, re           | 5.25         |
+| Paper                                                        | status                                                       | average rate |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
+| [NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://openreview.net/forum?id=Rc7dAwVL3v) | Spot                                                         | 8.00         |
+| [ Large Language Models are Efficient Learners of Noise-Robust Speech Recognition](https://openreview.net/forum?id=ceATjGPTUD) | Spot                                                         | 8.00         |
+| [ Multi-resolution HuBERT: Multi-resolution Speech Self-Supervised Learning with Masked Unit Prediction](https://openreview.net/forum?id=kUuKFW7DIF) | Spot                                                         | 8.00         |
+| [Zipformer: A faster and better encoder for automatic speech recognition](https://openreview.net/forum?id=9WD9KwssyT) | Oral                                                         | 7.50         |
+| [ RTFS-Net: Recurrent Time-Frequency Modelling for Efficient Audio-Visual Speech Separation](https://openreview.net/forum?id=PEuDO2EiDr) |                                                              | 7.50         |
+| [Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech](https://openreview.net/forum?id=ale56Ya59q) |                                                              | 7.00         |
+| [Spoken Question Answering and Speech Continuation Using Spectrogram-Powered LLM](https://openreview.net/forum?id=izrOLJov5y) |                                                              | 6.75         |
+| [It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition](https://openreview.net/forum?id=QqjFHyQwtF) |                                                              | 6.60         |
+| [ Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) |                                                              | 6.50         |
+| [CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech](https://openreview.net/forum?id=ofzeypWosV) |                                                              | 6.40         |
+| [BLSP: Bootstrapping Language-Speech Pre-training via Behavior Alignment of Continuation Writing](https://openreview.net/forum?id=H4zAFFyoXK) | 5668, re, link: https://arxiv.org/pdf/2309.00916             | 6.25         |
+| [TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation](https://openreview.net/forum?id=71oyMJiUm2) | 5668, desk re, **accepted by ACL2024**, https://aclanthology.org/2024.findings-acl.593.pdf | 6.25         |
+| [ Multilingual Visual Speech Recognition with a Single Model using Visual Speech Unit](https://openreview.net/forum?id=M8J0b9gNfG) | 56668, re,  link: https://arxiv.org/pdf/2401.09802v1         | 6.20         |
+| [PolyVoice: Language Models for Speech to Speech Translation](https://openreview.net/forum?id=hCrFG9cyuC) | **3588, accepted**                                           | 6.00         |
+| [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://openreview.net/forum?id=PORUmWsgBN) | 5568, re, **accepted by SIGGRAPH 2024 (Journal Track)**, https://arxiv.org/pdf/2310.00434 | 6.00         |
+| [ LipVoicer: Generating Speech from Silent Videos Guided by Lip Reading](https://openreview.net/forum?id=ZZCPSC5OgD) | **5568,accepted**                                            | 6.00         |
+| [ Generative Pre-training for Speech with Flow Matching](https://openreview.net/forum?id=KpoQSgxbKH) | **3668,accepted**                                            | 5.75         |
+| [DiffAR: Denoising Diffusion Autoregressive Model for Raw Speech Waveform Generation](https://openreview.net/forum?id=GTk0AdOYLq) | **5666,accepted**                                            | 5.75         |
+| [SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models](https://openreview.net/forum?id=AF9Q8Vip84) | **3668,accepted**                                            | 5.75         |
+| [SummaryMixing: A Linear-Complexity Alternative to Self-Attention for Speech Recognition and Understanding](https://openreview.net/forum?id=PoBB8n52oi) | 3568, rem **accepted by Interspeech24**, https://arxiv.org/pdf/2307.07421 | 5.75         |
+| [ RepCodec: A Speech Representation Codec for Speech Tokenization](https://openreview.net/forum?id=LfDUzzQa3g) | 5566, re, **accepted by ACL-main2024**, https://arxiv.org/pdf/2309.00169 | 5.50         |
+| [ A Discrete and Variational Approach to Speech Representation Learning](https://openreview.net/forum?id=rQRDt8F2Yh) | 33588, withdraw                                              | 5.40         |
+| [Generative Pre-Trained Speech Language Model with Efficient Hierarchical Transformer](https://openreview.net/forum?id=TJNCnkDRkY) | 5556, re, **accepted by ACL2024**, https://arxiv.org/pdf/2406.00976 | 5.25         |
 
 ### Audio
 
