@@ -12,6 +12,10 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 
 🎉 UPDATE ***NeurIPS 2024*** conference papers successfully!
 
+🎉 UPDATE ***ICML 2023*** conference papers successfully!
+
+🎉 UPDATE ***NeurIPS 2023*** conference papers successfully!
+
 ## ICLR'25
 
 ICLR'25 total submission: 11672; accepted: 3706 (31.75%)
@@ -134,7 +138,7 @@ The accepted(or not) status depends on rate mainly. The rate of speech/audio tra
 
 It includes the papers on speech (rate is good or middle, often more than 5), not limited to accepted or not.
 
-Total speech papers@ICLR24 number is **50+**; We select  **20** papers.
+Total speech papers@ICLR24 number is **50+**; We select  **20+** papers.
 
 | Paper                                                        | status                                                       | average rate |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
@@ -145,12 +149,15 @@ Total speech papers@ICLR24 number is **50+**; We select  **20** papers.
 | [ RTFS-Net: Recurrent Time-Frequency Modelling for Efficient Audio-Visual Speech Separation](https://openreview.net/forum?id=PEuDO2EiDr) |                                                              | 7.50         |
 | [Self-Supervised Speech Quality Estimation and Enhancement Using Only Clean Speech](https://openreview.net/forum?id=ale56Ya59q) |                                                              | 7.00         |
 | [Spoken Question Answering and Speech Continuation Using Spectrogram-Powered LLM](https://openreview.net/forum?id=izrOLJov5y) |                                                              | 6.75         |
+| [SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://openreview.net/forum?id=14rn7HpKVk) |                                                              | 6.67         |
 | [It's Never Too Late: Fusing Acoustic Information into Large Language Models for Automatic Speech Recognition](https://openreview.net/forum?id=QqjFHyQwtF) |                                                              | 6.60         |
 | [ Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) |                                                              | 6.50         |
 | [CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech](https://openreview.net/forum?id=ofzeypWosV) |                                                              | 6.40         |
 | [BLSP: Bootstrapping Language-Speech Pre-training via Behavior Alignment of Continuation Writing](https://openreview.net/forum?id=H4zAFFyoXK) | 5668, re, link: https://arxiv.org/pdf/2309.00916             | 6.25         |
 | [TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation](https://openreview.net/forum?id=71oyMJiUm2) | 5668, desk re, **accepted by ACL2024**, https://aclanthology.org/2024.findings-acl.593.pdf | 6.25         |
 | [ Multilingual Visual Speech Recognition with a Single Model using Visual Speech Unit](https://openreview.net/forum?id=M8J0b9gNfG) | 56668, re,  link: https://arxiv.org/pdf/2401.09802v1         | 6.20         |
+| [PromptTTS 2: Describing and Generating Voices with Text Prompt](https://openreview.net/forum?id=NsCXDyv2Bn) |                                                              | 6.00         |
+| [Separate and Diffuse: Using a Pretrained Diffusion Model for Better Source Separation](https://openreview.net/forum?id=UXALv0lJZS) |                                                              | 6.00         |
 | [PolyVoice: Language Models for Speech to Speech Translation](https://openreview.net/forum?id=hCrFG9cyuC) | **3588, accepted**                                           | 6.00         |
 | [DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models](https://openreview.net/forum?id=PORUmWsgBN) | 5568, re, **accepted by SIGGRAPH 2024 (Journal Track)**, https://arxiv.org/pdf/2310.00434 | 6.00         |
 | [ LipVoicer: Generating Speech from Silent Videos Guided by Lip Reading](https://openreview.net/forum?id=ZZCPSC5OgD) | **5568,accepted**                                            | 6.00         |
@@ -166,11 +173,12 @@ Total speech papers@ICLR24 number is **50+**; We select  **20** papers.
 
 It includes the papers on speech (rate is good or middle, often more than 5), not limited to accepted or not.
 
-Total speech papers@ICLR24 number is **20+**; We select  **16** papers.
+Total speech papers@ICLR24 number is **20+**; We select  **17** papers.
 
 | Paper                                                        | status                      | average rate |
 | ------------------------------------------------------------ | --------------------------- | ------------ |
 | [Masked Audio Generation using a Single Non-Autoregressive Transformer](https://openreview.net/forum?id=Ny8NiVfi95) |                             | 7.33         |
+| [Listen, Think, and Understand](https://openreview.net/forum?id=nBZBPXdJlC) |                             | 7.00         |
 | [Revisiting Deep Audio-Text Retrieval Through the Lens of Transportation](https://openreview.net/forum?id=l60EM8md3t) |                             | 6.67         |
 | [ Weakly-supervised Audio Separation via Bi-modal Semantic Similarity](https://openreview.net/forum?id=4N97bz1sP6) |                             | 6.67         |
 | [CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models](https://openreview.net/forum?id=86NGO8qeWs) |                             | 6.50         |
@@ -274,4 +282,94 @@ useful link: https://nips.cc/virtual/2024/papers.html?filter=titles&search=audio
 | [VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time](https://nips.cc/virtual/2024/poster/96555) |        |
 | [UniAudio 1.5: Large Language Model-Driven Audio Codec is A Few-Shot Audio Task Learner](https://nips.cc/virtual/2024/poster/95454) |        |
 | [AudioMarkBench: Benchmarking Robustness of Audio Watermarking](https://nips.cc/virtual/2024/poster/97471) |        |
+
+## ICML'23
+
+### Speech
+
+useful link: https://icml.cc/virtual/2023/papers.html?filter=titles&search=speech
+
+| Paper                                                        | status |
+| ------------------------------------------------------------ | ------ |
+| [Pre-training for Speech Translation: CTC Meets Optimal Transport](https://icml.cc/virtual/2023/poster/24195) | Oral   |
+| [Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language](https://icml.cc/virtual/2023/poster/25257) | Oral   |
+| [Robust Speech Recognition via Large-Scale Weak Supervision](https://icml.cc/virtual/2023/poster/24519) |        |
+| [Shiftable Context: Addressing Training-Inference Context Mismatch in Simultaneous Speech Translation](https://icml.cc/virtual/2023/poster/24293) |        |
+| [Self-supervised Neural Factor Analysis for Disentangling Utterance-level Speech Representations](https://icml.cc/virtual/2023/poster/24759) |        |
+| [MetricGAN-OKD: Multi-Metric Optimization of MetricGAN via Online Knowledge Distillation for Speech Enhancement](https://icml.cc/virtual/2023/poster/25028) |        |
+| [Mu$^2$SLAM: Multitask, Multilingual Speech and Language Models](https://icml.cc/virtual/2023/poster/24244) |        |
+
+### Audio
+
+useful link: https://icml.cc/virtual/2023/papers.html?filter=titles&search=audio
+
+| Paper                                                        | Status |
+| ------------------------------------------------------------ | ------ |
+| [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://icml.cc/virtual/2023/poster/24145) |        |
+| [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://icml.cc/virtual/2023/poster/25060) |        |
+| [A Unified Audio-Visual Learning Framework for Localization, Separation, and Recognition](https://icml.cc/virtual/2023/poster/25216) |        |
+| [BEATs: Audio Pre-Training with Acoustic Tokenizers](https://icml.cc/virtual/2023/poster/24937) | Oral   |
+| [Do You Remember? Overcoming Catastrophic Forgetting for Fake Audio Detection](https://icml.cc/virtual/2023/poster/24753) |        |
+
+## NeurIPS'23
+
+### Speech
+
+| Paper                                                        | Status |
+| ------------------------------------------------------------ | ------ |
+| [High-Fidelity Audio Compression with Improved RVQGAN](https://openreview.net/forum?id=qjnl1QUnFA) | Spot   |
+| [Sounding Bodies: Modeling 3D Spatial Sound of Humans Using Body Pose and Audio](https://openreview.net/forum?id=zQTi3pziFp) | Spot   |
+| [How to Scale Your EMA](https://openreview.net/forum?id=DkeeXVdQyu) | Spot   |
+| [Textually Pretrained Speech Language Models](https://openreview.net/forum?id=UlHueVjAKr) |        |
+| [ComSL: A Composite Speech-Language Model for End-to-End Speech-to-Text Translation](https://openreview.net/forum?id=6Qx7G1xrAk) |        |
+| [DASpeech: Directed Acyclic Transformer for Fast and High-quality Speech-to-Speech Translation](https://openreview.net/forum?id=JvYSSPtQyk) |        |
+| [StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models](https://openreview.net/forum?id=m0RbqrUM26) |        |
+| [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://openreview.net/forum?id=gzCS252hCO) |        |
+| [DOSE: Diffusion Dropout with Adaptive Prior for Speech Enhancement](https://openreview.net/forum?id=2C2WZfCfo9) |        |
+| [P-Flow: A Fast and Data-Efficient Zero-Shot TTS through Speech Prompting](https://openreview.net/forum?id=zNA7u7wtIN) |        |
+| [DinoSR: Self-Distillation and Online Clustering for Self-supervised Speech Representation Learning](https://openreview.net/forum?id=twmHKU3Ds4) |        |
+| [Parts of Speech–Grounded Subspaces in Vision-Language Models](https://openreview.net/forum?id=hLoanbRrjM) |        |
+| [UNSSOR: Unsupervised Neural Speech Separation by Leveraging Over-determined Training Mixtures](https://openreview.net/forum?id=T5h69frFF7) |        |
+| [Learning Repeatable Speech Embeddings Using An Intra-class Correlation Regularizer](https://openreview.net/forum?id=jCPRG3FuHV) |        |
+| [Disentangling Voice and Content with Self-Supervision for Speaker Recognition](https://openreview.net/forum?id=KoFYzuwjCA) |        |
+| [From Discrete Tokens to High-Fidelity Audio Using Multi-Band Diffusion](https://openreview.net/forum?id=dOanKg3jKS) |        |
+| [Unified Segment-to-Segment Framework for Simultaneous Sequence Generation](https://openreview.net/forum?id=GuErIOGLie) |        |
+| [Conditional Adapters: Parameter-efficient Transfer Learning with Fast Inference](https://openreview.net/forum?id=IyYyKov0Aj) |        |
+| [Progressive Ensemble Distillation: Building Ensembles for Efficient Inference](https://openreview.net/forum?id=wNxyDofh74) |        |
+| [LEACE: Perfect linear concept erasure in closed form](https://openreview.net/forum?id=awIpKpwTwF) |        |
+| [TART: A plug-and-play Transformer module for task-agnostic reasoning](https://openreview.net/forum?id=ZXbgVm3PSt) |        |
+
+### Audio
+
+| Paper                                                        | Status |
+| ------------------------------------------------------------ | ------ |
+| [Compression with Bayesian Implicit Neural Representations](https://openreview.net/forum?id=5otj6QKUMI) | Spot   |
+| [From Discrete Tokens to High-Fidelity Audio Using Multi-Band Diffusion](https://openreview.net/forum?id=dOanKg3jKS) |        |
+| [Pengi: An Audio Language Model for Audio Tasks](https://openreview.net/forum?id=gJLAfO4KUq) |        |
+| [AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models](https://openreview.net/forum?id=EO1KuHoR0V) |        |
+| [MAViL: Masked Audio-Video Learners](https://openreview.net/forum?id=OmTMaTbjac) |        |
+| [Weakly-Supervised Audio-Visual Segmentation](https://openreview.net/forum?id=sUqG96QqZM) |        |
+| [Disentangled Counterfactual Learning for Physical Audiovisual Commonsense Reasoning](https://openreview.net/forum?id=trHfuGQyyr) |        |
+| [Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models](https://openreview.net/forum?id=q5FAZAIooz) |        |
+| [AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis](https://openreview.net/forum?id=snY3FOnlQi) |        |
+| [Simple and Controllable Music Generation](https://openreview.net/forum?id=jtiQ26sCJi) |        |
+| [CoLLAT: On Adding Fine-grained Audio Understanding to Language Models using Token-Level Locked-Language Tuning](https://openreview.net/forum?id=2NncD8AaFK) |        |
+| [VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset](https://openreview.net/forum?id=scYa9DYUAy) |        |
+| [Modality-Independent Teachers Meet Weakly-Supervised Audio-Visual Event Parser](https://openreview.net/forum?id=p8gTWkFIvx) |        |
+| [Dual Mean-Teacher: An Unbiased Semi-Supervised Framework for Audio-Visual Source Localization](https://openreview.net/forum?id=CFhpBJ8eZ5) |        |
+| [Cross-modal Prompts: Adapting Large Pre-trained Models for Audio-Visual Downstream Tasks](https://openreview.net/forum?id=9MwidIH4ea) |        |
+| [Revisit Weakly-Supervised Audio-Visual Video Parsing from the Language Perspective](https://openreview.net/forum?id=doWqIXcRlq) |        |
+| [Self-Supervised Visual Acoustic Matching](https://openreview.net/forum?id=clKbFMt29V) |        |
+| [Connecting Multi-modal Contrastive Representations](https://openreview.net/forum?id=IGTbT9P1ti) |        |
+| [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale](https://openreview.net/forum?id=gzCS252hCO) |        |
+| [Achieving Cross Modal Generalization with Multimodal Unified Representation](https://openreview.net/forum?id=t7ZowrDWVw) |        |
+| [Any-to-Any Generation via Composable Diffusion](https://openreview.net/forum?id=2EDqbSCnmF) |        |
+| [Efficient Neural Music Generation](https://openreview.net/forum?id=cxazQGSsQa) |        |
+| [Training Transitive and Commutative Multimodal Transformers with LoReTTa](https://openreview.net/forum?id=nArzDm353Y) |        |
+| [Latent Diffusion for Language Generation](https://openreview.net/forum?id=NKdtztladR) |        |
+| [Block-State Transformers](https://openreview.net/forum?id=XRTxIBs2eu) |        |
+| [Learning Interpretable Low-dimensional Representation via Physical Symmetry](https://openreview.net/forum?id=3iSj4l8ZGT) |        |
+| [Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception](https://openreview.net/forum?id=uTlKUAm68H) |        |
+| [Feature Dropout: Revisiting the Role of Augmentations in Contrastive Learning](https://openreview.net/forum?id=M7hijAPA4B) |        |
+| [Language Semantic Graph Guided Data-Efficient Learning](https://openreview.net/forum?id=tUyW68cRqr) |        |
 
