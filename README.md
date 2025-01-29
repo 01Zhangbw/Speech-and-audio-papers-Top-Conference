@@ -2,9 +2,15 @@
 
 Hi there! If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
 
-🔥 NEW UPDATE: 23 Jan, 2025.
+🔥 NEW UPDATE: 29 Jan, 2025. 新年快乐！
 
 🎉 UPDATE ***ICLR 2025*** conference papers successfully!
+
+🎉 UPDATE ***ICLR 2024*** conference papers successfully!
+
+🎉 UPDATE ***ICML 2024*** conference papers successfully!
+
+🎉 UPDATE ***NeurIPS 2024*** conference papers successfully!
 
 ## ICLR'25
 
@@ -184,3 +190,88 @@ Total speech papers@ICLR24 number is **20+**; We select  **16** papers.
 ### Simple summary
 
 This year, the paper's number is not so large.
+
+## ICML'24
+
+### Speech
+
+| Paper                                                        | status |
+| ------------------------------------------------------------ | ------ |
+| [ELF: Encoding Speaker-Specific Latent Speech Feature for Speech Synthesis](https://icml.cc/virtual/2024/poster/33936) |        |
+| [video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models](https://icml.cc/virtual/2024/poster/33117) |        |
+| [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://icml.cc/virtual/2024/poster/33552) |        |
+| [InstructSpeech: Following Speech Editing Instructions via Large Language Models](https://icml.cc/virtual/2024/poster/32696) |        |
+| [Scaling Speech Technology to 1,000+ Languages](https://icml.cc/virtual/2024/poster/35635) |        |
+| [IIANet: An Intra- and Inter-Modality Attention Network for Audio-Visual Speech Separation](https://icml.cc/virtual/2024/poster/34541) |        |
+| [Speech Self-Supervised Learning Using Diffusion Model Synthetic Data](https://icml.cc/virtual/2024/poster/33487) |        |
+
+### Audio
+
+| Paper                                                        | status |
+| ------------------------------------------------------------ | ------ |
+| [Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion](https://icml.cc/virtual/2024/poster/33184) |        |
+| [UniAudio: Towards Universal Audio Generation with Large Language Models](https://icml.cc/virtual/2024/poster/34007) |        |
+| [Prompt-guided Precise Audio Editing with Diffusion Models](https://icml.cc/virtual/2024/poster/33258) |        |
+| [Creative Text-to-Audio Generation via Synthesizer Programming](https://icml.cc/virtual/2024/poster/34961) |        |
+| [Fast Timing-Conditioned Latent Audio Diffusion](https://icml.cc/virtual/2024/poster/33311) |        |
+| [Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities](https://icml.cc/virtual/2024/poster/33859) |        |
+| [Listenable Maps for Audio Classifiers](https://icml.cc/virtual/2024/poster/33268) |        |
+| [STELLA: Continual Audio-Video Pre-training with SpatioTemporal Localized Alignment](https://icml.cc/virtual/2024/poster/32844) |        |
+| [From Vision to Audio and Beyond: A Unified Model for Audio-Visual Representation and Generation](https://icml.cc/virtual/2024/poster/33302) |        |
+| [AND: Audio Network Dissection for Interpreting Deep Acoustic Models](https://icml.cc/virtual/2024/poster/33753) |        |
+| [EquiAV: Leveraging Equivariance for Audio-Visual Contrastive Learning](https://icml.cc/virtual/2024/poster/34832) |        |
+
+## NeurIPS'24
+
+### Speech
+
+useful link: https://nips.cc/virtual/2024/papers.html?filter=titles&search=speech
+
+| Paper                                                        | status |
+| ------------------------------------------------------------ | ------ |
+| [SSDM: Scalable Speech Dysfluency Modeling](https://nips.cc/virtual/2024/poster/95746) |        |
+| [SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection](https://nips.cc/virtual/2024/poster/94610) |        |
+| [Paralinguistics-Aware Speech-Empowered Large Language Models for Natural Conversation](https://nips.cc/virtual/2024/poster/95416) |        |
+| [A Full-duplex Speech Dialogue Scheme Based On Large Language Model](https://nips.cc/virtual/2024/poster/94688) |        |
+| [CA-SSLR: Condition-Aware Self-Supervised Learning Representation for Generalized Speech Processing](https://nips.cc/virtual/2024/poster/94546) |        |
+| [Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models](https://nips.cc/virtual/2024/poster/93632) |        |
+| [DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation](https://nips.cc/virtual/2024/poster/95019) |        |
+| [SILENCE: Protecting privacy in offloaded speech understanding on resource-constrained devices](https://nips.cc/virtual/2024/poster/93343) |        |
+| [FINALLY: fast and universal speech enhancement with studio-like quality](https://nips.cc/virtual/2024/poster/96882) |        |
+| [SpeechAlign: Aligning Speech Generation to Human Preferences](https://nips.cc/virtual/2024/poster/95112) |        |
+| [Du-IN: Discrete units-guided mask modeling for decoding speech from Intracranial Neural signals](https://nips.cc/virtual/2024/poster/93238) |        |
+| [SCOREQ: Speech Quality Assessment with Contrastive Regression](https://nips.cc/virtual/2024/poster/95846) |        |
+| [RealMAN: A Real-Recorded and Annotated Microphone Array Dataset for Dynamic Speech Enhancement and Localization](https://nips.cc/virtual/2024/poster/97504) |        |
+| [TransVIP: Speech to Speech Translation System with Voice and Isochrony Preservation](https://nips.cc/virtual/2024/poster/94611) |        |
+| [CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations](https://nips.cc/virtual/2024/poster/94904) |        |
+| [Unified Speech Recognition: A Single Model for Auditory, Visual, and Audiovisual Inputs](https://nips.cc/virtual/2024/poster/93199) |        |
+| [IndicVoices-R: Unlocking a Massive Multilingual Multi-speaker Speech Corpus for Scaling Indian TTS](https://nips.cc/virtual/2024/poster/97858) |        |
+| [Separate and Reconstruct: Asymmetric Encoder-Decoder for Speech Separation](https://nips.cc/virtual/2024/poster/96323) |        |
+| [Comprehensive Framework for Curating Speech Datasets and Evaluating ASR Systems: A Case Study for the Polish Language](https://nips.cc/virtual/2024/poster/97720) |        |
+
+### Audio
+
+useful link: https://nips.cc/virtual/2024/papers.html?filter=titles&search=audio
+
+| Paper                                                        | status |
+| ------------------------------------------------------------ | ------ |
+| [Vocal Call Locator Benchmark (VCL'24) for localizing rodent vocalizations from multi-channel audio](https://nips.cc/virtual/2024/poster/97470) |        |
+| [SLIM: Style-Linguistics Mismatch Model for Generalized Audio Deepfake Detection](https://nips.cc/virtual/2024/poster/94173) |        |
+| [Tell What You Hear From What You See - Video to Audio Generation Through Text](https://nips.cc/virtual/2024/poster/93863) |        |
+| [Learning Spatially-Aware Language and Audio Embeddings](https://nips.cc/virtual/2024/poster/93168) |        |
+| [Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://nips.cc/virtual/2024/poster/93027) |        |
+| [SpeechForensics: Audio-Visual Speech Representation Learning for Face Forgery Detection](https://nips.cc/virtual/2024/poster/94610) |        |
+| [Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering](https://nips.cc/virtual/2024/poster/93303) |        |
+| [Continual Audio-Visual Sound Separation](https://nips.cc/virtual/2024/poster/95301) |        |
+| [Mixtures of Experts for Audio-Visual Learning](https://nips.cc/virtual/2024/poster/95106) |        |
+| [Listenable Maps for Zero-Shot Audio Classifiers](https://nips.cc/virtual/2024/poster/93828) |        |
+| [Aligning Audio-Visual Joint Representations with an Agentic Workflow](https://nips.cc/virtual/2024/poster/95239) |        |
+| [AV-Cloud: Spatial Audio Rendering Through Audio-Visual Cloud Splatting](https://nips.cc/virtual/2024/poster/92984) |        |
+| [Frieren: Efficient Video-to-Audio Generation Network with Rectified Flow Matching](https://nips.cc/virtual/2024/poster/93527) |        |
+| [An eye for an ear: zero-shot audio description leveraging an image captioner with audio-visual token distribution matching](https://nips.cc/virtual/2024/poster/94989) |        |
+| [A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation](https://nips.cc/virtual/2024/poster/94376) |        |
+| [Unified Speech Recognition: A Single Model for Auditory, Visual, and Audiovisual Inputs](https://nips.cc/virtual/2024/poster/93199) |        |
+| [VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time](https://nips.cc/virtual/2024/poster/96555) |        |
+| [UniAudio 1.5: Large Language Model-Driven Audio Codec is A Few-Shot Audio Task Learner](https://nips.cc/virtual/2024/poster/95454) |        |
+| [AudioMarkBench: Benchmarking Robustness of Audio Watermarking](https://nips.cc/virtual/2024/poster/97471) |        |
+
