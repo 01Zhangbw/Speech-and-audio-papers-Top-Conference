@@ -37,7 +37,7 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [NeurIPS'23](#NeurIPS23)
   * [Speech](#Speech-5)
   * [Audio](#Audio-5)
-* [Useful Survey&Awesome Link](#Useful Survey&Awesome Link)
+* [Useful Survey & Awesome Link](#Useful-Survey-Awesome-Link)
 
 ## ICLR'25
 
@@ -396,7 +396,7 @@ useful link: https://icml.cc/virtual/2023/papers.html?filter=titles&search=audio
 | [Feature Dropout: Revisiting the Role of Augmentations in Contrastive Learning](https://openreview.net/forum?id=M7hijAPA4B) |        |
 | [Language Semantic Graph Guided Data-Efficient Learning](https://openreview.net/forum?id=tUyW68cRqr) |        |
 
-## Useful Survey&Awesome Link
+## Useful Survey & Awesome Link
 
 + Neural Codec & Speech Language Models: https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models
 + Controllable TTS: https://github.com/imxtx/awesome-controllabe-speech-synthesis
