@@ -1,5 +1,3 @@
-[TOC]
-
 # Speech and audio papers@Top Conference
 
 Hi there! If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
@@ -17,6 +15,30 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 🎉 UPDATE ***ICML 2023*** conference papers successfully!
 
 🎉 UPDATE ***NeurIPS 2023*** conference papers successfully!
+
+[Speech and audio papers@Top Conference](#Speech-and-audio-papers-Top-Conference)
+
+* [ICLR'25](#ICLR-25)
+  * [Speech](#Speech)
+  * [Audio](#Audio)
+  * [Summary](#Summary)
+* [ICLR'24](#ICLR-24)
+  * [Speech](#Speech-1)
+  * [Audio](#Audio-1)
+  * [Summary](#Summary-1)
+* [ICML'24](#ICML-24)
+  * [Speech](#Speech-2)
+  * [Audio](#Audio-2)
+* [NeurIPS'24](#NeurIPS-24)
+  * [Speech](#Speech-3)
+  * [Audio](#Audio-3)
+* [ICML'23](#ICML-23)
+  * [Speech](#Speech-4)
+  * [Audio](#Audio-4)
+* [NeurIPS'23](#NeurIPS-23)
+  * [Speech](#Speech-5)
+  * [Audio](#Audio-5)
+* [Useful Survey&Awesome Link](#Useful Survey&Awesome Link)
 
 ## ICLR'25
 
