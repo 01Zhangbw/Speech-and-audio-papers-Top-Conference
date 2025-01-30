@@ -42,6 +42,9 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [ACMMM'24](#ACMMM24)
   * [Speech](#Speech-6)
   * [Audio](#Audio-6)
+* [ICLR'23](#ICLR23)
+  * [Speech](#Speech-7)
+  * [Audio](#Audio-7)
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 
 ## ICLR'25
@@ -463,6 +466,38 @@ useful link: https://icml.cc/virtual/2023/papers.html?filter=titles&search=audio
 | [TAS: Personalized Text-guided Audio Spatialization](https://openreview.net/forum?id=5ab60yS8e0) |        |
 | [Boosting Audio Visual Question Answering via Key Semantic-Aware Cues](https://openreview.net/forum?id=c4XZpv5Fdh) |        |
 | [V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection](https://openreview.net/forum?id=IRiDIMJ8Zi) |        |
+
+## ICLR'23
+
+### Speech
+
+| Paper                                                        | Status |
+| ------------------------------------------------------------ | ------ |
+| [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye) |        |
+| [An efficient encoder-decoder architecture with top-down attention for speech separation](https://openreview.net/forum?id=fzberKYWKsI) |        |
+| [Jointly Learning Visual and Auditory Speech Representations from Raw Data](https://openreview.net/forum?id=BPwIgvf5iQ) |        |
+| [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn) |        |
+| [In-Situ Text-Only Adaptation of Speech Models with Low-Overhead Speech Imputations](https://openreview.net/forum?id=T2Ncx_PN2K) |        |
+| [Revisiting the Entropy Semiring for Neural Speech Recognition](https://openreview.net/forum?id=SNgLnzFQeiD) |        |
+| [D4AM: A General Denoising Framework for Downstream Acoustic Models](https://openreview.net/forum?id=5fvXH49wk2) |        |
+| [Filter-Recovery Network for Multi-Speaker Audio-Visual Speech Separation](https://openreview.net/forum?id=fiB2RjmgwQ6) |        |
+| [BigVGAN: A Universal Neural Vocoder with Large-Scale Training](https://openreview.net/forum?id=iTtGCMDEzS_) |        |
+| [Continuous pseudo-labeling from the start ](https://openreview.net/forum?id=m3twGT2bAug) |        |
+| [NANSY++: Unified Voice Synthesis with Neural Analysis and Synthesis](https://openreview.net/forum?id=elDEe8LYW7-) |        |
+| [BAYES RISK CTC: CONTROLLABLE CTC ALIGNMENT IN SEQUENCE-TO-SEQUENCE TASKS](https://openreview.net/forum?id=Bd7GueaTxUz) |        |
+
+### Audio
+
+| Paper                                                        | Status |
+| ------------------------------------------------------------ | ------ |
+| [Token Merging: Your ViT But Faster ](https://openreview.net/forum?id=JroZRaRw7Eu) | Oral   |
+| [Contrastive Audio-Visual Masked Autoencoder ](https://openreview.net/forum?id=QPtMRyk5rb) | Spot   |
+| [AudioGen: Textually Guided Audio Generation](https://openreview.net/forum?id=CYK7RfcOzQ4) |        |
+| [Defending against Adversarial Audio via Diffusion Model](https://openreview.net/forum?id=5-Df3tljit7) |        |
+| [wav2tok: Deep Sequence Tokenizer for Audio Retrieval](https://openreview.net/forum?id=v8Mi8KU6056) |        |
+| [Continual Transformers: Redundancy-Free Attention for Online Inference](https://openreview.net/forum?id=PolHquob8M7) |        |
+| [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD) |        |
+| [Words are all you need? Language as an approximation for human similarity judgments](https://openreview.net/forum?id=O-G91-4cMdv) |        |
 
 ## Useful Survey & Awesome Link
 
