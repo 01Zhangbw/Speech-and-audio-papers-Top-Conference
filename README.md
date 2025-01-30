@@ -373,3 +373,30 @@ useful link: https://icml.cc/virtual/2023/papers.html?filter=titles&search=audio
 | [Feature Dropout: Revisiting the Role of Augmentations in Contrastive Learning](https://openreview.net/forum?id=M7hijAPA4B) |        |
 | [Language Semantic Graph Guided Data-Efficient Learning](https://openreview.net/forum?id=tUyW68cRqr) |        |
 
+## Useful Survey & Awesome Link
+
++ Neural Codec & Speech Language Models: https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models
++ Controllable TTS: https://github.com/imxtx/awesome-controllabe-speech-synthesis
++ Expressive TTS: https://github.com/01Zhangbw/Awesome-Expressive-speech-synthesis
++ Disordered Speech: https://github.com/01Zhangbw/Awesome-Disordered-Speech
++ Large Audio Model: https://github.com/EmulationAI/awesome-large-audio-models
++ Codec-SuperB: https://github.com/voidful/Codec-SUPERB
++ Next Token Prediction: https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction
++ Paper daily: https://github.com/halsay/ASR-TTS-paper-daily
++ Audio LLM: https://github.com/AudioLLMs/Awesome-Audio-LLM
++ Speech Trident: https://github.com/ga642381/speech-trident
++ Speech Pretrained: https://github.com/ddlBoJack/Awesome-Speech-Pretraining
++ TTS: https://github.com/wenet-e2e/speech-synthesis-paper
++ Speech Language model: https://github.com/ddlBoJack/Awesome-Speech-Language-Model
++ [Amphion](https://github.com/open-mmlab/Amphion)
++ InterSpeech23-24: https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers
++ ICASSP23-24: https://github.com/DmitryRyumin/ICASSP-2023-24-Papers
+
+1. Amphion v0.2 technical report
+   https://arxiv.org/abs/2501.15442
+
+2. Emilia-Large：更大杯，更多实验结果及细节
+   https://arxiv.org/abs/2501.15907
+
+3. AnyEnhance：语音增强、歌声增强、说话人提取等等任务，AnyEnhance一个模型全搞定
+   https://arxiv.org/abs/2501.15417
