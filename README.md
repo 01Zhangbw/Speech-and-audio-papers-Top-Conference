@@ -37,7 +37,7 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [NeurIPS'23](#NeurIPS23)
   * [Speech](#Speech-5)
   * [Audio](#Audio-5)
-* [Useful Survey & Awesome Link](#Useful-Survey-Awesome-Link)
+* [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 
 ## ICLR'25
 
