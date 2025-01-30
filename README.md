@@ -21,11 +21,11 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [ICLR'25](#ICLR'25)
   * [Speech](#Speech)
   * [Audio](#Audio)
-  * [Simple summary](#Simple summary)
+  * [Summary](#Summary)
 * [ICLR'24](#ICLR'24)
   * [Speech](#Speech-1)
   * [Audio](#Audio-1)
-  * [Simple summary](#Simple summary-1)
+  * [Summary](#Summary-1)
 * [ICML'24](#ICML'24)
   * [Speech](#Speech-2)
   * [Audio](#Audio-2)
@@ -38,7 +38,7 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [NeurIPS'23](#NeurIPS'23)
   * [Speech](#Speech-5)
   * [Audio](#Audio-5)
-* [Useful Survey & Awesome Link](#Useful Survey & Awesome Link)
+* [Useful Survey&Awesome Link](#Useful Survey&Awesome Link)
 
 ## ICLR'25
 
@@ -152,7 +152,7 @@ Total speech papers@ICLR25 number is **70+**; We select  **36** papers.
 | [ Collaborative Hybrid Propagator for Temporal Misalignment in Audio-Visual Segmentation](https://openreview.net/forum?id=yqJoqtUwSI) | 35558, withdraw     | 5.20         |
 | [T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback](https://openreview.net/forum?id=H8QvefExFf) | 3566, withdraw      | 5.00         |
 
-### Simple summary
+### Summary
 
 The accepted(or not) status depends on rate mainly. The rate of speech/audio track is not high, which is much less than the tracks like CV, NLP, etc. **The rebuttals are very important!!!**
 
@@ -219,7 +219,7 @@ Total speech papers@ICLR24 number is **20+**; We select  **17** papers.
 | [Rethinking Audiovisual Segmentation with Semantic Quantization and Decomposition](https://openreview.net/forum?id=nuWVS4SBUu) | 5555, re                    | 5.00         |
 | [ WavJourney: Compositional Audio Creation with Large Language Models](https://openreview.net/forum?id=8JCn0kmS8W) | 35566, re                   | 5.00         |
 
-### Simple summary
+### Summary
 
 This year, the paper's number is not so large.
 
@@ -397,7 +397,7 @@ useful link: https://icml.cc/virtual/2023/papers.html?filter=titles&search=audio
 | [Feature Dropout: Revisiting the Role of Augmentations in Contrastive Learning](https://openreview.net/forum?id=M7hijAPA4B) |        |
 | [Language Semantic Graph Guided Data-Efficient Learning](https://openreview.net/forum?id=tUyW68cRqr) |        |
 
-## Useful Survey & Awesome Link
+## Useful Survey&Awesome Link
 
 + Neural Codec & Speech Language Models: https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models
 + Controllable TTS: https://github.com/imxtx/awesome-controllabe-speech-synthesis
