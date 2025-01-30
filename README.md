@@ -2,7 +2,7 @@
 
 Hi there! If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
 
-🔥 NEW UPDATE: 29 Jan, 2025. 新年快乐！
+🔥 NEW UPDATE: 30 Jan, 2025. 新年快乐！
 
 🎉 UPDATE ***ICLR 2025*** conference papers successfully!
 
@@ -15,6 +15,8 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 🎉 UPDATE ***ICML 2023*** conference papers successfully!
 
 🎉 UPDATE ***NeurIPS 2023*** conference papers successfully!
+
+🎉 UPDATE ***ACMMM 2024*** conference papers successfully!
 
 [Speech and audio papers@Top Conference](#speech-and-audio-paperstop-conference)
 * [ICLR'25](#ICLR25)
@@ -37,6 +39,9 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [NeurIPS'23](#NeurIPS23)
   * [Speech](#Speech-5)
   * [Audio](#Audio-5)
+* [ACMMM'24](#ACMMM24)
+  * [Speech](#Speech-6)
+  * [Audio](#Audio-6)
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 
 ## ICLR'25
@@ -395,6 +400,69 @@ useful link: https://icml.cc/virtual/2023/papers.html?filter=titles&search=audio
 | [Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception](https://openreview.net/forum?id=uTlKUAm68H) |        |
 | [Feature Dropout: Revisiting the Role of Augmentations in Contrastive Learning](https://openreview.net/forum?id=M7hijAPA4B) |        |
 | [Language Semantic Graph Guided Data-Efficient Learning](https://openreview.net/forum?id=tUyW68cRqr) |        |
+
+## ACMMM'24
+
+### Speech
+
+| Paper                                                        | Status |
+| ------------------------------------------------------------ | ------ |
+| [VoxInstruct: Expressive Human Instruction-to-Speech Generation with Unified Multilingual Codec Language Modelling](https://openreview.net/forum?id=hQp6qimhbb) | Oral   |
+| [UniStyle: Unified Style Modeling for Speaking Style Captioning and Stylistic Speech Synthesis](https://openreview.net/forum?id=7BZ4biy975) | Oral   |
+| [Boosting Speech Recognition Robustness to Modality-Distortion with Contrast-Augmented Prompts](https://openreview.net/forum?id=2bTqjmcQjT) | Oral   |
+| [ArtSpeech: Adaptive Text-to-Speech Synthesis with Articulatory Representations](https://openreview.net/forum?id=nagiMHx4A3) | Oral   |
+| [Self-Supervised Emotion Representation Disentanglement for Speech-Preserving Facial Expression Manipulation](https://openreview.net/forum?id=Pnaq8Sd4Ql) | Oral   |
+| [Generative Expressive Conversational Speech Synthesis](https://openreview.net/forum?id=eK9ShhDqwu) |        |
+| [SpeechCraft: A Fine-Grained Expressive Speech Dataset with Natural Language Description](https://openreview.net/forum?id=rjAY1DGUWC) |        |
+| [CIEASR:Contextual Image-Enhanced Automatic Speech Recognition for Improved Homophone Discrimination](https://openreview.net/forum?id=v5qqd214xq) |        |
+| [EGGesture: Entropy-Guided Vector Quantized Variational AutoEncoder for Co-Speech Gesture Generation](https://openreview.net/forum?id=Xmapdbf1CT) |        |
+| [DEITalk: Speech-Driven 3D Facial Animation with Dynamic Emotional Intensity Modeling](https://openreview.net/forum?id=1Y3qb4987z) |        |
+| [Contrastive Context-Speech Pretraining for Expressive Text-to-Speech Synthesis](https://openreview.net/forum?id=hSCBbAhSog) |        |
+| [RAVSS: Robust Audio-Visual Speech Separation in Multi-Speaker Scenarios with Missing Visual Cues](https://openreview.net/forum?id=WbbfjojmjD) |        |
+| [Efficient Training for Multilingual Visual Speech Recognition: Pre-training with Discretized Visual Speech Representation](https://openreview.net/forum?id=rD7guYi6jZ) |        |
+| [Speech Reconstruction from Silent Lip and Tongue Articulation by Diffusion Models and Text-Guided Pseudo Target Generation](https://openreview.net/forum?id=M87zOOryOG) |        |
+| [MDT-A2G: Exploring Masked Diffusion Transformers for Co-Speech Gesture Generation](https://openreview.net/forum?id=xJK53lGJP2) |        |
+| [SpeechEE: A Novel Benchmark for Speech Event Extraction](https://openreview.net/forum?id=35rgn7rIn3) |        |
+| [MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion](https://openreview.net/forum?id=9Jwor3Kfy2) |        |
+| [Emphasizing Semantic Consistency of Salient Posture for Speech-Driven Gesture Generation](https://openreview.net/forum?id=NaUbjH7QEL) |        |
+| [Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation](https://openreview.net/forum?id=aLK06bsEgo) |        |
+| [FlashSpeech: Efficient Zero-Shot Speech Synthesis](https://openreview.net/forum?id=Q5C9eNZl1m) |        |
+
+### Audio
+
+| Paper                                                        | Status |
+| ------------------------------------------------------------ | ------ |
+| [OpenAVE: Moving towards Open Set Audio-Visual Event Localization](https://openreview.net/forum?id=7gymfcw7E7) | Oral   |
+| [Unveiling and Mitigating Bias in Audio Visual Segmentation](https://openreview.net/forum?id=pguhpIXhXh) | Oral   |
+| [AV-Deepfake1M: A Large-Scale LLM-Driven Audio-Visual Deepfake Dataset](https://openreview.net/forum?id=YZ68Ifi4yH) | Oral   |
+| [Tango 2: Aligning Diffusion-based Text-to-Audio Generative Models through Direct Preference Optimization](https://openreview.net/forum?id=7lqptq5dLG) | Oral   |
+| [Towards Trustworthy MetaShopping: Studying Manipulative Audiovisual Designs in Virtual-Physical Commercial Platforms](https://openreview.net/forum?id=I4EJdRTVaf) | Oral   |
+| [Open-Vocabulary Audio-Visual Semantic Segmentation](https://openreview.net/forum?id=PkW68qL47n) | Oral   |
+| [Advancing Multi-grained Alignment for Contrastive Language-Audio Pre-training](https://openreview.net/forum?id=F8w9Sx3f4O) | Oral   |
+| [Toward Explainable Physical Audiovisual Commonsense Reasoning](https://openreview.net/forum?id=Ls7KytN8C8) | Oral   |
+| [TiVA: Time-Aligned Video-to-Audio Generation](https://openreview.net/forum?id=tIpOYtxerl) | Oral   |
+| [Coarse-to-Fine Proposal Refinement Framework For Audio Temporal Forgery Detection and Localization](https://openreview.net/forum?id=vKGqzxqNM9) | Oral   |
+| [SelM: Selective Mechanism based Audio-Visual Segmentation](https://openreview.net/forum?id=oiEyxnMrF0) | Oral   |
+| [Dissecting Temporal Understanding in Text-to-Audio Retrieval](https://openreview.net/forum?id=HTZy9hpoYV) |        |
+| [FRADE: Forgery-aware Audio-distilled Multimodal Learning for Deepfake Detection](https://openreview.net/forum?id=TWzfIkho4e) |        |
+| [AMG-Embedding: a Self-Supervised Embedding Approach for Audio Identification](https://openreview.net/forum?id=H7etFJugLW) |        |
+| [MMAL: Multi-Modal Analytic Learning for Exemplar-Free Audio-Visual Class Incremental Tasks](https://openreview.net/forum?id=zGoCaP7NyR) |        |
+| [Utilizing Speaker Profiles for Impersonation Audio Detection](https://openreview.net/forum?id=ifKQnupnP9) |        |
+| [CACE-Net: Co-guidance Attention and Contrastive Enhancement for Effective Audio-Visual Event Localization](https://openreview.net/forum?id=ue6UUvoL8B) |        |
+| [CoPL:Parameter-Efficient Collaborative Prompt Learning for Audio-Visual Tasks](https://openreview.net/forum?id=adqDa13uXh) |        |
+| [Time-Frequency Domain Fusion Enhancement for Audio Super-Resolution](https://openreview.net/forum?id=nrt0w3gJ3f) |        |
+| [Auto-ACD: A Large-scale Dataset for Audio-Language Representation Learning](https://openreview.net/forum?id=TSuwWHORY2) |        |
+| [Multi-grained Correspondence Learning of Audio-language Models for Few-shot Audio Recognition](https://openreview.net/forum?id=3BFo7AYjoa) |        |
+| [Audio Deepfake Detection with Self-Supervised XLS-R and SLS Classifier](https://openreview.net/forum?id=acJMIXJg2u) |        |
+| [AVHash: Joint Audio-Visual Hashing for Video Retrieval](https://openreview.net/forum?id=elDjJp4Upl) |        |
+| [RAVSS: Robust Audio-Visual Speech Separation in Multi-Speaker Scenarios with Missing Visual Cues](https://openreview.net/forum?id=WbbfjojmjD) |        |
+| [EchoAudio: Efficient and High-Quality Text-to-Audio Generation with Minimal Inference Steps](https://openreview.net/forum?id=OhQLdb4seO) |        |
+| [Instance-Level Panoramic Audio-Visual Saliency Detection and Ranking](https://openreview.net/forum?id=0Q9zTGHOda) |        |
+| [Audio-Driven Identity Manipulation for Face Inpainting](https://openreview.net/forum?id=XY8iqCpOBF) |        |
+| [GROOT: Generating Robust Watermark for Diffusion-Model-Based Audio Synthesis](https://openreview.net/forum?id=wKZmm6OPoy) |        |
+| [TAS: Personalized Text-guided Audio Spatialization](https://openreview.net/forum?id=5ab60yS8e0) |        |
+| [Boosting Audio Visual Question Answering via Key Semantic-Aware Cues](https://openreview.net/forum?id=c4XZpv5Fdh) |        |
+| [V2A-Mark: Versatile Deep Visual-Audio Watermarking for Manipulation Localization and Copyright Protection](https://openreview.net/forum?id=IRiDIMJ8Zi) |        |
 
 ## Useful Survey & Awesome Link
 
