@@ -567,39 +567,39 @@ useful link: https://2024.aclweb.org/program/main_conference_papers/#long-papers
 
 ### Speech
 
-| Paper                                                        | Authorlist                                                   | Status |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| **GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators** | *Yuchen Hu, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, EngSiong Chng* | Long   |
-| **Wav2Gloss: Generating Interlinear Glossed Text from Speech** | *Taiqi He, Kwanghee Choi, Lindia Tjuatja, Nathaniel Romney Robinson, Jiatong Shi, Shinji Watanabe, Graham Neubig, David R Mortensen, Lori Levin* |        |
-| **A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation** | *Zhengrui Ma, Qingkai Fang, Shaolei Zhang, Shoutao Guo, Yang Feng, Min zhang* |        |
-| **Generative Pre-trained Speech Language Model with Efficient Hierarchical Transformer** | *Yongxin Zhu, Dan Su, Liqiang He, Linli Xu, Dong Yu*         |        |
-| **Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?** | *Marco Gaido, Sara Papi, Matteo Negri, Luisa Bentivogli*     |        |
-| **StreamAtt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection** | *Sara Papi, Marco Gaido, Matteo Negri, Luisa Bentivogli*     |        |
-| **Speech vs. Transcript: Does It Matter for Human Annotators in Speech Summarization?** | *Roshan Sharma, Suwon Shon, Mark Lindsey, Hira Dhamyal, Bhiksha Raj* |        |
-| **LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures** | *Chenghao Xu, Guangtao Lyu, Jiexi Yan, Muli Yang, Cheng Deng* |        |
-| **RepCodec: A Speech Representation Codec for Speech Tokenization** | *Zhichao Huang, Chutong Meng, Tom Ko*                        |        |
-| **Error-preserving Automatic Speech Recognition of Young English Learners’ Language** | *Janick Michot, Manuela Hürlimann, Jan Milan Deriu, Luzia Sauer, Katsiaryna Mlynchyk, Mark Cieliebak* |        |
-| **Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?** | *Qingkai Fang, Shaolei Zhang, Zhengrui Ma, Min zhang, Yang Feng* |        |
-| **Multimodal Contextualized Semantic Parsing from Speech**   | *Jordan Voas, David Harwath, Ray Mooney*                     |        |
-| **SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network** | *Kexin Wang, Jiahong Zhang, Yong Ren, Man Yao, Di Shang, Bo XU, Guoqi Li* |        |
-| **Speech Sense Disambiguation: Tackling Homophone Ambiguity in End-to-End Speech Translation** | *Tengfei Yu, Xuebo Liu, Liang Ding, Kehai Chen, Dacheng Tao, Min Zhang* |        |
-| **Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation** | *Keqi Deng, Phil Woodland*                                   |        |
-| **Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn’t** | *Chihiro Taguchi, David Chiang*                              |        |
-| **Speech language models lack important brain-relevant semantics** | *SUBBA REDDY OOTA, Emin Çelik, Fatma Deniz, Mariya Toneva*   |        |
-| **StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning** | *Shaolei Zhang, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min zhang, Yang Feng* |        |
-| **NaijaHate: Evaluating Hate Speech Detection on Nigerian Twitter Using Representative Data** | *Manuel Tonneau, Pedro Vitor Quinta de Castro, Karim Lasri, Ibrahim Sambo Farouq, Lakshmi Subramanian, Victor Orozco-Olvera, Samuel Fraiberger* |        |
-| **Uni-Dubbing: Zero-Shot Speech Synthesis from Visual Articulation** | *Songju Lei, Xize Cheng, Mengjiao Lyu, Jianqiao Hu, Jintao Tan, Runlin Liu, Lingyu Xiong, Tao Jin, Xiandong Li, Zhou Zhao* |        |
-| **OWSM-CTC: An Open Encoder-Only Speech Foundation Model for Speech Recognition, Translation, and Language Identification** | *Yifan Peng, Yui Sudo, Muhammad Shakeel, Shinji Watanabe*    |        |
-| **Don’t Go To Extremes: Revealing the Excessive Sensitivity and Calibration Limitations of LLMs in Implicit Hate Speech Detection** | *Min Zhang, Jianfeng He, Taoran Ji, Chang-Tien Lu*           |        |
-| **Structured Tree Alignment for Evaluation of (Speech) Constituency Parsing** | *Freda Shi, Kevin Gimpel, Karen Livescu*                     |        |
-| **VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild** | *Puyuan Peng, Po-Yao Huang, Shang-Wen Li, Abdelrahman Mohamed, David Harwath* |        |
-| **A Community-Centric Perspective for Characterizing and Detecting Anti-Asian Violence-Provoking Speech** | *Gaurav Verma, Rynaa Grover, Jiawei Zhou, Binny Mathew, Jordan Kraemer, Munmun De Choudhury, Srijan Kumar* |        |
-| **XLAVS-R: Cross-Lingual Audio-Visual Speech Representation Learning for Noise-Robust Speech Perception** | *HyoJung Han, Mohamed Anwar, Juan Pino, Wei-Ning Hsu, Marine Carpuat, Bowen Shi, Changhan Wang* |        |
-| **MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech** | *Shengpeng Ji, Ziyue Jiang, Wang Hanting, Jialung Zuo, Zhou Zhao* |        |
-| **The MERSA Dataset and a Transformer-Based Approach for Speech Emotion Recognition** | *Enshi Zhang, Rafael Trujillo, Christian Poellabauer*        |        |
-| **Growing Trees on Sounds: Assessing Strategies for End-to-End Dependency Parsing of Speech** | *Adrien Pupier, Maximin Coavoux, Jérôme Goulian, Benjamin Lecouteux* | Short  |
-| **Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster** | *Agostina Calabrese, Leonardo Neves, Neil Shah, Maarten W. Bos, Björn Ross, Mirella Lapata, Francesco Barbieri* |        |
-| **On the Semantic Latent Space of Diffusion-Based Text-To-Speech Models** | *Miri Varshavsky, Roy Hirsch, Regev Cohen, Tomer Golany, Daniel Freedman, Ehud Rivlin* |        |
+| Paper                                                        | Authorlist                                                   | Status                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------- |
+| **GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators** | *Yuchen Hu, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, EngSiong Chng* | Long, [link](https://aclanthology.org/2024.acl-long.5.pdf) |
+| **Wav2Gloss: Generating Interlinear Glossed Text from Speech** | *Taiqi He, Kwanghee Choi, Lindia Tjuatja, Nathaniel Romney Robinson, Jiatong Shi, Shinji Watanabe, Graham Neubig, David R Mortensen, Lori Levin* | https://aclanthology.org/2024.acl-long.34.pdf              |
+| **A Non-autoregressive Generation Framework for End-to-End Simultaneous Speech-to-Any Translation** | *Zhengrui Ma, Qingkai Fang, Shaolei Zhang, Shoutao Guo, Yang Feng, Min zhang* | https://aclanthology.org/2024.acl-long.85.pdf              |
+| **Generative Pre-trained Speech Language Model with Efficient Hierarchical Transformer** | *Yongxin Zhu, Dan Su, Liqiang He, Linli Xu, Dong Yu*         | https://aclanthology.org/2024.acl-long.97.pdf              |
+| **Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?** | *Marco Gaido, Sara Papi, Matteo Negri, Luisa Bentivogli*     | https://aclanthology.org/2024.acl-long.789.pdf             |
+| **StreamAtt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection** | *Sara Papi, Marco Gaido, Matteo Negri, Luisa Bentivogli*     | https://aclanthology.org/2024.acl-long.202.pdf             |
+| **Speech vs. Transcript: Does It Matter for Human Annotators in Speech Summarization?** | *Roshan Sharma, Suwon Shon, Mark Lindsey, Hira Dhamyal, Bhiksha Raj* | https://aclanthology.org/2024.acl-long.790.pdf             |
+| **LLM Knows Body Language, Too: Translating Speech Voices into Human Gestures** | *Chenghao Xu, Guangtao Lyu, Jiexi Yan, Muli Yang, Cheng Deng* | https://aclanthology.org/2024.acl-long.273.pdf             |
+| **RepCodec: A Speech Representation Codec for Speech Tokenization** | *Zhichao Huang, Chutong Meng, Tom Ko*                        | https://aclanthology.org/2024.acl-long.314.pdf             |
+| **Error-preserving Automatic Speech Recognition of Young English Learners’ Language** | *Janick Michot, Manuela Hürlimann, Jan Milan Deriu, Luzia Sauer, Katsiaryna Mlynchyk, Mark Cieliebak* | https://aclanthology.org/2024.acl-long.348.pdf             |
+| **Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?** | *Qingkai Fang, Shaolei Zhang, Zhengrui Ma, Min zhang, Yang Feng* | https://aclanthology.org/2024.acl-long.392.pdf             |
+| **Multimodal Contextualized Semantic Parsing from Speech**   | *Jordan Voas, David Harwath, Ray Mooney*                     | https://aclanthology.org/2024.acl-long.398.pdf             |
+| **SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network** | *Kexin Wang, Jiahong Zhang, Yong Ren, Man Yao, Di Shang, Bo XU, Guoqi Li* | https://aclanthology.org/2024.acl-long.429.pdf             |
+| **Speech Sense Disambiguation: Tackling Homophone Ambiguity in End-to-End Speech Translation** | *Tengfei Yu, Xuebo Liu, Liang Ding, Kehai Chen, Dacheng Tao, Min Zhang* | https://aclanthology.org/2024.acl-long.435.pdf             |
+| **Label-Synchronous Neural Transducer for E2E Simultaneous Speech Translation** | *Keqi Deng, Phil Woodland*                                   | https://aclanthology.org/2024.acl-long.448.pdf             |
+| **Language Complexity and Speech Recognition Accuracy: Orthographic Complexity Hurts, Phonological Complexity Doesn’t** | *Chihiro Taguchi, David Chiang*                              | https://aclanthology.org/2024.acl-long.827.pdf             |
+| **Speech language models lack important brain-relevant semantics** | *SUBBA REDDY OOTA, Emin Çelik, Fatma Deniz, Mariya Toneva*   | https://aclanthology.org/2024.acl-long.462.pdf             |
+| **StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning** | *Shaolei Zhang, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min zhang, Yang Feng* | https://aclanthology.org/2024.acl-long.485.pdf             |
+| **NaijaHate: Evaluating Hate Speech Detection on Nigerian Twitter Using Representative Data** | *Manuel Tonneau, Pedro Vitor Quinta de Castro, Karim Lasri, Ibrahim Sambo Farouq, Lakshmi Subramanian, Victor Orozco-Olvera, Samuel Fraiberger* | https://aclanthology.org/2024.acl-long.488v2.pdf           |
+| **Uni-Dubbing: Zero-Shot Speech Synthesis from Visual Articulation** | *Songju Lei, Xize Cheng, Mengjiao Lyu, Jianqiao Hu, Jintao Tan, Runlin Liu, Lingyu Xiong, Tao Jin, Xiandong Li, Zhou Zhao* | https://aclanthology.org/2024.acl-long.543.pdf             |
+| **OWSM-CTC: An Open Encoder-Only Speech Foundation Model for Speech Recognition, Translation, and Language Identification** | *Yifan Peng, Yui Sudo, Muhammad Shakeel, Shinji Watanabe*    | https://aclanthology.org/2024.acl-long.549.pdf             |
+| **Don’t Go To Extremes: Revealing the Excessive Sensitivity and Calibration Limitations of LLMs in Implicit Hate Speech Detection** | *Min Zhang, Jianfeng He, Taoran Ji, Chang-Tien Lu*           | https://aclanthology.org/2024.acl-long.652.pdf             |
+| **Structured Tree Alignment for Evaluation of (Speech) Constituency Parsing** | *Freda Shi, Kevin Gimpel, Karen Livescu*                     | https://aclanthology.org/2024.acl-long.666.pdf             |
+| **VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild** | *Puyuan Peng, Po-Yao Huang, Shang-Wen Li, Abdelrahman Mohamed, David Harwath* | https://aclanthology.org/2024.acl-long.673.pdf             |
+| **A Community-Centric Perspective for Characterizing and Detecting Anti-Asian Violence-Provoking Speech** | *Gaurav Verma, Rynaa Grover, Jiawei Zhou, Binny Mathew, Jordan Kraemer, Munmun De Choudhury, Srijan Kumar* | https://aclanthology.org/2024.acl-long.684.pdf             |
+| **XLAVS-R: Cross-Lingual Audio-Visual Speech Representation Learning for Noise-Robust Speech Perception** | *HyoJung Han, Mohamed Anwar, Juan Pino, Wei-Ning Hsu, Marine Carpuat, Bowen Shi, Changhan Wang* | https://aclanthology.org/2024.acl-long.697.pdf             |
+| **MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech** | *Shengpeng Ji, Ziyue Jiang, Wang Hanting, Jialung Zuo, Zhou Zhao* | https://aclanthology.org/2024.acl-long.733.pdf             |
+| **The MERSA Dataset and a Transformer-Based Approach for Speech Emotion Recognition** | *Enshi Zhang, Rafael Trujillo, Christian Poellabauer*        |                                                            |
+| **Growing Trees on Sounds: Assessing Strategies for End-to-End Dependency Parsing of Speech** | *Adrien Pupier, Maximin Coavoux, Jérôme Goulian, Benjamin Lecouteux* | Short                                                      |
+| **Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster** | *Agostina Calabrese, Leonardo Neves, Neil Shah, Maarten W. Bos, Björn Ross, Mirella Lapata, Francesco Barbieri* |                                                            |
+| **On the Semantic Latent Space of Diffusion-Based Text-To-Speech Models** | *Miri Varshavsky, Roy Hirsch, Regev Cohen, Tomer Golany, Daniel Freedman, Ehud Rivlin* |                                                            |
 
 ### Audio
 
