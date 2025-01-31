@@ -20,7 +20,10 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 
 🎉 UPDATE ***ICLR 2023*** conference papers successfully!
 
+🎉 UPDATE ***AAAI 2024*** conference papers successfully!
+
 [Speech and audio papers@Top Conference](#speech-and-audio-paperstop-conference)
+
 * [ICLR'25](#ICLR25)
   * [Speech](#Speech)
   * [Audio](#Audio)
@@ -47,6 +50,9 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [ICLR'23](#ICLR23)
   * [Speech](#Speech-7)
   * [Audio](#Audio-7)
+* [AAAI'24](#AAAI24)
+  * [Speech](#Speech-8)
+  * [Audio](#Audio-8)
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 
 ## ICLR'25
@@ -236,31 +242,31 @@ This year, the paper's number is not so large.
 
 ### Speech
 
-| Paper                                                        | status |
-| ------------------------------------------------------------ | ------ |
-| [ELF: Encoding Speaker-Specific Latent Speech Feature for Speech Synthesis](https://icml.cc/virtual/2024/poster/33936) |        |
-| [video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models](https://icml.cc/virtual/2024/poster/33117) |        |
-| [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://icml.cc/virtual/2024/poster/33552) |        |
-| [InstructSpeech: Following Speech Editing Instructions via Large Language Models](https://icml.cc/virtual/2024/poster/32696) |        |
-| [Scaling Speech Technology to 1,000+ Languages](https://icml.cc/virtual/2024/poster/35635) |        |
-| [IIANet: An Intra- and Inter-Modality Attention Network for Audio-Visual Speech Separation](https://icml.cc/virtual/2024/poster/34541) |        |
-| [Speech Self-Supervised Learning Using Diffusion Model Synthetic Data](https://icml.cc/virtual/2024/poster/33487) |        |
+| Paper                                                        | status                                             |
+| ------------------------------------------------------------ | -------------------------------------------------- |
+| [ELF: Encoding Speaker-Specific Latent Speech Feature for Speech Synthesis](https://icml.cc/virtual/2024/poster/33936) | [link](https://openreview.net/pdf?id=Ug1m4P4AKf)   |
+| [video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models](https://icml.cc/virtual/2024/poster/33117) | [link](https://openreview.net/forum?id=nYsh5GFIqX) |
+| [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://icml.cc/virtual/2024/poster/33552) | [link](https://openreview.net/pdf?id=dVhrnjZJad)   |
+| [InstructSpeech: Following Speech Editing Instructions via Large Language Models](https://icml.cc/virtual/2024/poster/32696) | [link](https://openreview.net/pdf?id=xlWcdtCyOC)   |
+| [Scaling Speech Technology to 1,000+ Languages](https://icml.cc/virtual/2024/poster/35635) | [link](https://arxiv.org/abs/2305.13516)           |
+| [IIANet: An Intra- and Inter-Modality Attention Network for Audio-Visual Speech Separation](https://icml.cc/virtual/2024/poster/34541) | [link](https://openreview.net/forum?id=FM61SQzF3N) |
+| [Speech Self-Supervised Learning Using Diffusion Model Synthetic Data](https://icml.cc/virtual/2024/poster/33487) | [link](https://openreview.net/pdf?id=ecnpYYHjt9)   |
 
 ### Audio
 
-| Paper                                                        | status |
-| ------------------------------------------------------------ | ------ |
-| [Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion](https://icml.cc/virtual/2024/poster/33184) |        |
-| [UniAudio: Towards Universal Audio Generation with Large Language Models](https://icml.cc/virtual/2024/poster/34007) |        |
-| [Prompt-guided Precise Audio Editing with Diffusion Models](https://icml.cc/virtual/2024/poster/33258) |        |
-| [Creative Text-to-Audio Generation via Synthesizer Programming](https://icml.cc/virtual/2024/poster/34961) |        |
-| [Fast Timing-Conditioned Latent Audio Diffusion](https://icml.cc/virtual/2024/poster/33311) |        |
-| [Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities](https://icml.cc/virtual/2024/poster/33859) |        |
-| [Listenable Maps for Audio Classifiers](https://icml.cc/virtual/2024/poster/33268) |        |
-| [STELLA: Continual Audio-Video Pre-training with SpatioTemporal Localized Alignment](https://icml.cc/virtual/2024/poster/32844) |        |
-| [From Vision to Audio and Beyond: A Unified Model for Audio-Visual Representation and Generation](https://icml.cc/virtual/2024/poster/33302) |        |
-| [AND: Audio Network Dissection for Interpreting Deep Acoustic Models](https://icml.cc/virtual/2024/poster/33753) |        |
-| [EquiAV: Leveraging Equivariance for Audio-Visual Contrastive Learning](https://icml.cc/virtual/2024/poster/34832) |        |
+| Paper                                                        | status                                           |
+| ------------------------------------------------------------ | ------------------------------------------------ |
+| [Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion](https://icml.cc/virtual/2024/poster/33184) | [link](https://openreview.net/pdf?id=mCzyRdDak5) |
+| [UniAudio: Towards Universal Audio Generation with Large Language Models](https://icml.cc/virtual/2024/poster/34007) | [link](https://openreview.net/pdf?id=SRmZw7nEGW) |
+| [Prompt-guided Precise Audio Editing with Diffusion Models](https://icml.cc/virtual/2024/poster/33258) |                                                  |
+| [Creative Text-to-Audio Generation via Synthesizer Programming](https://icml.cc/virtual/2024/poster/34961) |                                                  |
+| [Fast Timing-Conditioned Latent Audio Diffusion](https://icml.cc/virtual/2024/poster/33311) |                                                  |
+| [Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities](https://icml.cc/virtual/2024/poster/33859) |                                                  |
+| [Listenable Maps for Audio Classifiers](https://icml.cc/virtual/2024/poster/33268) |                                                  |
+| [STELLA: Continual Audio-Video Pre-training with SpatioTemporal Localized Alignment](https://icml.cc/virtual/2024/poster/32844) |                                                  |
+| [From Vision to Audio and Beyond: A Unified Model for Audio-Visual Representation and Generation](https://icml.cc/virtual/2024/poster/33302) |                                                  |
+| [AND: Audio Network Dissection for Interpreting Deep Acoustic Models](https://icml.cc/virtual/2024/poster/33753) |                                                  |
+| [EquiAV: Leveraging Equivariance for Audio-Visual Contrastive Learning](https://icml.cc/virtual/2024/poster/34832) |                                                  |
 
 ## NeurIPS'24
 
@@ -500,6 +506,50 @@ useful link: https://icml.cc/virtual/2023/papers.html?filter=titles&search=audio
 | [Continual Transformers: Redundancy-Free Attention for Online Inference](https://openreview.net/forum?id=PolHquob8M7) |        |
 | [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD) |        |
 | [Words are all you need? Language as an approximation for human similarity judgments](https://openreview.net/forum?id=O-G91-4cMdv) |        |
+
+## AAAI'24
+
+useful link: https://aaai.org/wp-content/uploads/2024/02/AAAI-24_Main_2024-02-01.pdf
+
+https://github.com/DmitryRyumin/AAAI-2024-Papers
+
+### Speech
+
+| Paper                                                        | Status                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------ |
+| Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation | https://arxiv.org/abs/2312.10877                       |
+| UniCATS: A Unified Context-Aware Text-to-Speech Framework with Contextual VQ-Diffusion and Vocoding | https://arxiv.org/abs/2306.07547                       |
+| Multichannel AV-wav2vec2: A Framework for Learning Multichannel Multi-Modal Speech Representation | https://arxiv.org/abs/2401.03468                       |
+| Visual Hallucination Elevates Speech Recognition             | https://ojs.aaai.org/index.php/AAAI/article/view/29926 |
+| Spanning the Spectrum of Hatred Detection: A Persian Multi-Label Hate Speech Dataset with Annotator Rationales | https://ojs.aaai.org/index.php/AAAI/article/view/29743 |
+| Restoring Speaking Lips from Occlusion for Audio-Visual Speech Recognition | https://ojs.aaai.org/index.php/AAAI/article/view/29882 |
+| MM-TTS: Multi-Modal Prompt Based Style Transfer for Expressive Text-toSpeech Synthesis | https://arxiv.org/abs/2312.10687                       |
+| Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling | https://arxiv.org/abs/2312.11947                       |
+| Let There Be Sound: Reconstructing High Quality Speech from Silent Videos | https://arxiv.org/abs/2308.15256                       |
+| Divergence-Guided Simultaneous Speech Translation            | https://ojs.aaai.org/index.php/AAAI/article/view/29733 |
+| SECap: Speech Emotion Captioning with Large Language Model   | https://arxiv.org/abs/2312.10381                       |
+| Self-Supervised Disentangled Representation Learning for Robust Target Speech Extraction | https://arxiv.org/abs/2312.10305                       |
+
+### Audio
+
+| Paper                                                        | Status                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------ |
+| AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis | https://arxiv.org/abs/2312.10921                       |
+| V2A-Mapper: A Lightweight Solution for Vision-to-Audio Generation by Connecting Foundation Models | https://arxiv.org/abs/2308.09300                       |
+| What to Remember: Self-Adaptive Continual Learning for Audio Deepfake Detection | https://arxiv.org/abs/2312.09651                       |
+| Audio Generation with Multiple Conditional Diffusion Model   | https://arxiv.org/abs/2308.11940                       |
+| AVSegFormer: Audio-Visual Segmentation with Transformer      | https://ojs.aaai.org/index.php/AAAI/article/view/29104 |
+| Diverse and Aligned Audio-to-Video Generation via Text-to-Video Model Adaptation | https://arxiv.org/abs/2309.16429                       |
+| Sample-Constrained Black Box Optimization for Audio Personalization | https://ojs.aaai.org/index.php/AAAI/article/view/28881 |
+| DTF-AT: Decoupled Time-Frequency Audio Transformer for Event Classification | https://ojs.aaai.org/index.php/AAAI/article/view/29716 |
+| CAVEN: An Embodied Conversational Agent for Efficient Audio-Visual Navigation in Noisy Environments | https://arxiv.org/abs/2306.04047                       |
+| Learning Temporal Resolution in Spectrogram for Audio Classification | https://arxiv.org/abs/2210.01719                       |
+| SoundCount: Sound Counting from Raw Audio with Dyadic Decomposition Neural Network | https://arxiv.org/abs/2312.16149                       |
+| Segment beyond View: Handling Partially Missing Modality for Audio-Visual Semantic Segmentation | https://arxiv.org/abs/2312.08673                       |
+| Improving Audio-Visual Segmentation with Bidirectional Generation | https://arxiv.org/abs/2308.08288                       |
+| Audio Scanning Network: Bridging Time and Frequency Domains for Audio Classification | https://ojs.aaai.org/index.php/AAAI/article/view/29015 |
+| Object-Aware Adaptive-Positivity Learning for Audio-Visual Question Answering | https://arxiv.org/abs/2312.12816                       |
+| Prompting Segmentation with Sound Is Generalizable Audio-Visual Source Localizer | https://arxiv.org/abs/2309.07929                       |
 
 ## Useful Survey & Awesome Link
 
