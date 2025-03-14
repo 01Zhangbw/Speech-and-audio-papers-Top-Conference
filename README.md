@@ -167,7 +167,6 @@ Total speech papers@ICLR25 number is **70+**; We select  **36** papers.
 | [Talking Turns: Benchmarking Audio Foundation Models on Turn-Taking Dynamics](https://openreview.net/forum?id=2e4ECh0ikn) |                     | 5.80         |
 | [Active Audio Cancellation with Multi-Band Mamba Network](https://openreview.net/forum?id=LwLaFpJpfM) | 3668, re            | 5.75         |
 | [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://openreview.net/forum?id=VeSsiD0DP9) | 5666, re            | 5.75         |
-| [ Token Pruning Meets Audio: Investigating Unique Behaviors in Vision Transformer-Based Audio Classification](https://openreview.net/forum?id=SvCOhZRQqa) | **55666, accepted** | 5.60         |
 | [AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models](https://openreview.net/forum?id=0BujOfTqab) | **3388, accepted**  | 5.50         |
 | [ NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics](https://openreview.net/forum?id=hJVdwBpWjt) | **3,5,8, accepted** | 5.33         |
 | [ Taming Data and Transformers for Audio Generation](https://openreview.net/forum?id=lidVssyB7G) | 3666, re            | 5.25         |
