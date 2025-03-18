@@ -64,6 +64,7 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
   * [Speech](#Speech-10)
   * [Audio](#Audio-10)
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
+* [Citation](#citation)
 
 ## ICLR'25
 
@@ -722,3 +723,16 @@ https://2024.emnlp.org/program/accepted_findings/
 
 3. AnyEnhance：语音增强、歌声增强、说话人提取等等任务，AnyEnhance一个模型全搞定
    https://arxiv.org/abs/2501.15417
+
+## Citation
+
+If you find this repository helpful, please consider citing:
+
+```
+@misc{Zhang2025SpeechAudio,
+  title = {Speech-and-audio-papers-Top-Conference},
+  author = {Bowen Zhang},
+  year = {2025},
+  howpublished = {\url{https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference}},
+}
+```
