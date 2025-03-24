@@ -2,7 +2,7 @@
 
 Hi there! If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
 
-🔥 NEW UPDATE: 31 Jan, 2025. 新年快乐！
+🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~24 Mar, 2025
 
 🎉 [01/23/2025] UPDATE ***ICLR 2025*** conference papers successfully!
 
@@ -25,6 +25,8 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 🎉 [01/31/2025] UPDATE ***ACL 2024*** conference papers successfully!
 
 🎉 [01/31/2025] UPDATE ***EMNLP 2024*** conference papers successfully!
+
+🎉 [03/24/2025] UPDATE ***NAACL 2025*** conference papers successfully!
 
 [Speech and audio papers@Top Conference](#speech-and-audio-paperstop-conference)
 
@@ -63,6 +65,9 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [EMNLP'24](#EMNLP24)
   * [Speech](#Speech-10)
   * [Audio](#Audio-10)
+* [NAACL'25](#NAACL25)
+  * [Speech](#Speech-11)
+  * [Audio](#Audio-11)
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 * [Citation](#citation)
 
@@ -695,6 +700,60 @@ https://2024.emnlp.org/program/accepted_findings/
 | **Audio-Based Linguistic Feature Extraction for Enhancing Multi-lingual and Low-Resource Text-to-Speech** | Youngjae Kim, Yejin Jeon, Gary Lee                           |          |
 | **SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering** | Tianyu Yang, Yiyang Nan, Lisen Dai, Zhenwen Liang, Yapeng Tian, Xiangliang Zhang |          |
 | **PyramidCodec: Hierarchical Codec for Long-form Music Generation in Audio Domain** | Jianyi Chen, Zheqi DAI, Zhen Ye, Xu Tan, Qifeng Liu, Yike Guo, Wei Xue |          |
+
+## NAACL'25
+
+useful link: https://2025.naacl.org/program/accepted_papers/
+
+### Speech
+
+| Paper                                                        | Authorlist                                                   | Status   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
+| **Robust and Unbounded Length Generalization in Autoregressive Transformer-Based Text-to-Speech** | Eric Battenberg, RJ Skerry-Ryan, Daisy Stanton, Soroosh Mariooryad, Matt Shannon, Julian Salazar, David Teh-Hwa Kao |          |
+| **Decoding Hate: Exploring Language Models’ Reactions to Hate Speech** | Paloma Piot, Javier Parapar                                  |          |
+| **Multi$^3$Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision–Language Models** | Minh Duc Bui, Katharina von der Wense, Anne Lauscher         |          |
+| **CSEval: Towards Automated, Multi-Dimensional, and Reference-Free Counterspeech Evaluation using Auto-Calibrated LLMs** | Amey Hengle, Aswini Kumar Padhi, Anil Bandhakavi, Tanmoy Chakraborty |          |
+| **MAD Speech: Measures of Acoustic Diversity of Speech**     | Matthieu Futeral, Andrea Agostinelli, Marco Tagliasacchi, Neil Zeghidour, Eugene Kharitonov |          |
+| **Afrispeech-Dialog: A Benchmark Dataset for Spontaneous English Conversations in Healthcare and Beyond** | Mardhiyah Sanni, Tassallah Abdullahi, Devendra Deepak Kayande, Emmanuel Ayodele, Naome A Etori, Michael Samwel Mollel, Moshood O. Yekini, Chibuzor Okocha, Lukman Enegi Ismaila, Folafunmi Omofoye, Boluwatife A. Adewale, Tobi Olatunji |          |
+| **Wav2Prompt: End-to-End Speech Prompt Learning and Task-based Fine-tuning for Text-based LLMs** | Keqi Deng, Guangzhi Sun, Phil Woodland                       |          |
+| **On the Role of Speech Data in Reducing Toxicity Detection Bias** | Samuel Bell, Mariano Coria Meglioli, Megan Richards, Eduardo Sánchez, Christophe Ropers, Skyler Wang, Adina Williams, Levent Sagun, Marta R. Costa-jussà |          |
+| **Leveraging Allophony in Self-Supervised Speech Models for Atypical Pronunciation Assessment** | Kwanghee Choi, Eunjung Yeo, Kalvin Chang, Shinji Watanabe, David R Mortensen |          |
+| **StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion** | Yinghao Aaron Li, Xilin Jiang, Cong Han, Nima Mesgarani      |          |
+| **AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages** | Shamsuddeen Hassan Muhammad, Idris Abdulmumin, Abinew Ali Ayele, David Ifeoluwa Adelani, Ibrahim Said Ahmad, Saminu Mohammad Aliyu, Paul Röttger, Abigail Oppong, Andiswa Bukula, et, al |          |
+| **Prepending or Cross-Attention for Speech-to-Text? An Empirical Comparison** | Tsz Kin Lam, Marco Gaido, Sara Papi, Luisa Bentivogli, Barry Haddow |          |
+| **ProSE: Diffusion Priors for Speech Enhancement**           | Sonal Kumar, Sreyan Ghosh, Utkarsh Tyagi, Anton Jeran Ratnarajah, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha |          |
+| **VoiceTextBlender: Augmenting Large Language Models with Speech Capabilities via Single-Stage Joint Speech-Text Supervised Fine-Tuning** | Yifan Peng, Krishna C Puvvada, Zhehuai Chen, Piotr Zelasko, He Huang, Kunal Dhawan, Ke Hu, Shinji Watanabe, Jagadeesh Balam, Boris Ginsburg |          |
+| **DyPCL: Dynamic Phoneme-level Contrastive Learning for Dysarthric Speech Recognition** | Wonjun Lee, Solee Im, Heejin Do, Yunsu Kim, Jungseul Ok, Gary Lee |          |
+| **How do Multimodal Foundation Models Encode Text and Speech? An Analysis of Cross-Lingual and Cross-Modal Representations** | Hyunji Lee, Danni Liu, Supriti Sinhamahapatra, Jan Niehues   | short    |
+| **Developing multilingual speech synthesis system for Ojibwe, Mi’kmaq, and Maliseet** | Shenran Wang, Changbing Yang, Michael l parkhill, Chad Quinn, Christopher Hammerly, Jian Zhu |          |
+| **Cross-Lingual Transfer Learning for Speech Translation**   | Rao Ma, Mengjie Qian, Yassir Fathullah, Siyuan Tang, Mark Gales, Kate Knill |          |
+| **kNN Retrieval for Simple and Effective Zero-Shot Multi-speaker Text-to-Speech** | Karl El Hajal, Ajinkya Kulkarni, Enno Hermann, Mathew Magimai Doss |          |
+| **DiVISe: Direct Visual-Input Speech Synthesis Preserving Speaker Characteristics And Intelligibility** | Yifan Liu, Yu Fang, Zhouhan Lin                              | Findings |
+| **BanTH: A Multi-label Hate Speech Detection Dataset for Transliterated Bangla** | Fabiha Haider, Fariha Tanjim Shifat, Md Farhan Ishmam, Md Sakib Ul Rahman Sourove, Deeparghya Dutta Barua, Md Fahim, Md Farhad Alam Bhuiyan |          |
+| **CDB: A Unified Framework for Hope Speech Detection Through Counterfactual, Desire and Belief** | Tulio Ferreira Leite da Silva, Gonzalo Freijedo Aduna, Farah Benamara, Alda Mari, Zongmin Li, Li Yue, Jian Su |          |
+| **Untangling Hate Speech Definitions: A Semantic Componential Analysis Across Cultures and Domains** | Katerina Korre, Arianna Muti, Federico Ruggeri, Alberto Barrón-Cedeño |          |
+| **Exploring Large Language Models for Hate Speech Detection in Rioplatense Spanish** | Juan Manuel Pérez, Paula Miguel, Viviana Cotik               |          |
+| **Unsupervised Speech-text word-level alignment with Dynamic Programming** | Tianshu Yu, Zihan Gong, Minghuan Tan, Guhong Chen, Min Yang  |          |
+| **Prompt-Guided Selective Masking Loss for Context-Aware Emotive Text-to-Speech** | Yejin Jeon, Youngjae Kim, Jihyun Lee, Gary Lee               |          |
+| **Echoes of Discord: Forecasting Hater Reactions to Counterspeech** | Xiaoying Song, Sharon Lisseth Perez, Xinchen Yu, Eduardo Blanco, Lingzi Hong |          |
+| **Continuous Speech Tokenizer in Text To Speech**            | Yixing Li, Ruobing Xie, Xingwu Sun, Yu Cheng, Zhanhui Kang   |          |
+| **CA\*: Addressing Evaluation Pitfalls in Computation-Aware Latency for Simultaneous Speech Translation** | Xi Xu, Wenda Xu, Siqi Ouyang, Lei Li                         |          |
+| **Gender Bias in Instruction-Guided Speech Synthesis Models** | Chun-Yi Kuan, Hung-yi Lee                                    |          |
+| **Yeah, Un, Oh: Continuous and Real-time Backchannel Prediction with Fine-tuning of Voice Activity Projection** | Koji Inoue, Divesh Lala, Gabriel Skantze, Tatsuya Kawahara   | voice    |
+| **Playing with Voices: Tabletop Role-Playing Game Recordings as a Diarization Challenge** | Lian Remme, Kevin Tang                                       | voice    |
+
+### Audio
+
+| Paper                                                        | Authorlist                                                   | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| **Ihquin tlahtouah in Tetelahtzincocah: An annotated, multi-purpose audio and text corpus of Western Sierra Puebla Nahuatl** | Robert Pugh, Cheyenne Wing, María Ximena Juárez Huerta, Angeles Márquez Hernandez, Francis M. Tyers |        |
+| **PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification** | Ashish Seth, Ramaneswaran Selvakumar, Sonal Kumar, Sreyan Ghosh, Dinesh Manocha |        |
+| **AudioBench: A Universal Benchmark for Audio Large Language Models** | Bin Wang, Xunlong Zou, Geyu Lin, Shuo Sun, Zhuohan Liu, Wenyu Zhang, Zhengyuan Liu, AiTi Aw, Nancy F. Chen |        |
+| **Audio Is the Achilles’ Heel: Red Teaming Audio Large Multimodal Models** | Hao Yang, Lizhen Qu, Ehsan Shareghi, Gholamreza Haffari      |        |
+| **Do Audio-Language Models Understand Linguistic Variations?** | Ramaneswaran Selvakumar, Sonal Kumar, Hemant Kumar Giri, Nishit Anand, Ashish Seth, Sreyan Ghosh, Dinesh Manocha |        |
+| **Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection** | Yassine El Kheir, Younes Samih, Suraj Maharjan, Tim Polzehl, Sebastian Möller |        |
+| **Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies** | Yingqiang Gao, Lukas Fischer, Alexa Lintner, Sarah Ebling    |        |
+| **Synthetic Audio Helps for Cognitive State Tasks**          | Adil Soubki, John Murzaku, Peter Zeng, Owen Rambow           |        |
 
 ## Useful Survey & Awesome Link
 
