@@ -70,6 +70,7 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
   * [Audio](#Audio-11)
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 * [Citation](#citation)
+* [License](#license)
 
 ## ICLR'25
 
@@ -795,3 +796,7 @@ If you find this repository helpful, please consider citing:
   howpublished = {\url{https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference}},
 }
 ```
+
+## License
+
+This repository is released under the [MIT license](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference?tab=MIT-1-ov-file).
