@@ -799,4 +799,4 @@ If you find this repository helpful, please consider citing:
 
 ## License
 
-This repository is released under the [MIT license](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference?tab=MIT-1-ov-file).
+This repository is released under the [MIT license](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference/blob/main/LICENSE).
