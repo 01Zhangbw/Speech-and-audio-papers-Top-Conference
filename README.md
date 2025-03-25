@@ -2,7 +2,7 @@
 
 Hi there! If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
 
-🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~24 Mar, 2025
+🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~25 Mar, 2025
 
 🎉 [01/23/2025] UPDATE ***ICLR 2025*** conference papers successfully!
 
@@ -27,6 +27,8 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 🎉 [01/31/2025] UPDATE ***EMNLP 2024*** conference papers successfully!
 
 🎉 [03/24/2025] UPDATE ***NAACL 2025*** conference papers successfully!
+
+🎉 [03/25/2025] UPDATE ***COLING 2025*** conference papers successfully!
 
 [Speech and audio papers@Top Conference](#speech-and-audio-paperstop-conference)
 
@@ -68,6 +70,9 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [NAACL'25](#NAACL25)
   * [Speech](#Speech-11)
   * [Audio](#Audio-11)
+* [COLING'25](#COLING25)
+  * [Speech](#Speech-12)
+  * [Audio](#Audio-12)
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 * [Citation](#citation)
 * [License](#license)
@@ -755,6 +760,45 @@ useful link: https://2025.naacl.org/program/accepted_papers/
 | **Comprehensive Layer-wise Analysis of SSL Models for Audio Deepfake Detection** | Yassine El Kheir, Younes Samih, Suraj Maharjan, Tim Polzehl, Sebastian Möller |        |
 | **Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies** | Yingqiang Gao, Lukas Fischer, Alexa Lintner, Sarah Ebling    |        |
 | **Synthetic Audio Helps for Cognitive State Tasks**          | Adil Soubki, John Murzaku, Peter Zeng, Owen Rambow           |        |
+
+## COLING'25
+
+### Speech
+
+useful link: https://coling2025.org/program/main_conference_papers/
+
+| Paper                                                        | Authorlist                                                   | Status                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Mining Word Boundaries from Speech-Text Parallel Data for Cross-domain Chinese Word Segmentation** | *Xuebin Wang, Lei Zhang, Zhenghua Li, Shilin Zhou, Chen Gong and Yang Hou* | [Main Conference Papers](https://coling2025.org/program/main_conference_papers/) |
+| **Linguistic Features Extracted by GPT-4 Improve Alzheimer’s Disease Detection based on Spontaneous Speech** | *Jonathan Heitz, Gerold Schneider and Nicolas Langer*        |                                                              |
+| **Assessing the Human Likeness of AI-Generated Counterspeech** | *Xiaoying Song, Sujana Mamidisetty, Eduardo Blanco and Lingzi Hong* |                                                              |
+| **DefVerify: Do Hate Speech Models Reflect Their Dataset’s Definition?** | *Urja Khurana, Eric Nalisnick and Antske Fokkens*            |                                                              |
+| **DiffStyleTTS: Diffusion-based Hierarchical Prosody Modeling for Text-to-Speech with Diverse and Controllable Styles** | *Jiaxuan Liu, Zhaoci Liu, Yajun Hu, Yingying Gao, Shilei Zhang and Zhenhua Ling* |                                                              |
+| **MuPe Life Stories Dataset: Spontaneous Speech in Brazilian Portuguese with a Case Study Evaluation on ASR Bias against Speakers Groups and Topic Modeling** | *Sidney Evaldo Leal, Arnaldo Candido Junior, Ricardo Marcacini, Edresson Casanova, Odilon Gonçalves, Anderson Silva Soares, Rodrigo Freitas Lima, Lucas Rafael Stefanel Gris and Sandra Aluísio* |                                                              |
+| **Representation Purification for End-to-End Speech Translation** | *Chengwei Zhang, Yue Zhou, Rui Zhao, Yidong Chen and xiaodong shi* |                                                              |
+| **HateBRXplain: A Benchmark Dataset with Human-Annotated Rationales for Explainable Hate Speech Detection in Brazilian Portuguese** | *Isadora Salles, Francielle Vargas and Fabrício Benevenuto*  |                                                              |
+| **Leveraging Large Pre-trained Multilingual Models for High-Quality Speech-to-Text Translation on Industry Scenarios** | *Marko Avila and Josep Crego*                                |                                                              |
+| **Transformer-based Speech Model Learns Well as Infants and Encodes Abstractions through Exemplars in the Poverty of the Stimulus Environment** | *Yi Yang, Yiming Wang and Jiahong Yuan*                      |                                                              |
+| **Learn from Failure: Causality-guided Contrastive Learning for Generalizable Implicit Hate Speech Detection** | *Tianming Jiang*                                             |                                                              |
+| **CoSTA: Code-Switched Speech Translation using Aligned Speech-Text Interleaving** | *Bhavani Shankar P S V N, Preethi Jyothi and Pushpak Bhattacharyya* |                                                              |
+| **Unveiling the sensitivity to Part-Of-Speech of routers in Mixture of Experts models** | *Elie Antoine, Frederic Bechet and Phillippe Langlais*       |                                                              |
+| **Speech Foundation Models and Crowdsourcing for Efficient, High-Quality Data Collection** | *Beomseok Lee, Marco Gaido, Ioan Calapodescu, Laurent Besacier and Matteo Negri* |                                                              |
+| **ProsodyFlow: High-fidelity Text-to-Speech through Conditional Flow Matching and Prosody Modeling with Large Speech Language Models** | *Haoyu Wang, Sizhe Shan, Yinlin Guo and Yuehai Wang*         |                                                              |
+| **Indigenous Languages Spoken in Argentina and NLP and Speech resources: A Survey** | *Maria Belen Ticona, Fernando Martín Carranza and Viviana Cotik* |                                                              |
+| **VoxpopuliTTS: a large-scale multilingual TTS corpus for zero-shot speech generation** | *Zhou Zhao, Wenrui Liu, Xize Cheng, Ziyue Jiang, Jionghao Bo, Xiaoda Yang, Minghui Fang, Shengpeng Ji, Jialong Zuo and Qian Yang* |                                                              |
+| **Investigating the Impact of Incremental Processing and Voice Activity Projection on Spoken Dialogue Systems** | *Yuya Chiba and Ryuichiro Higashinaka*                       |                                                              |
+| **Voice synthesis in Polish and English - analyzing prediction differences in speaker verification systems** | *Joanna Gajewska, Alicja Martinek, Michał J. Ołowski and Ewelina Bartuzi-Trokielewicz* |                                                              |
+| **Improve Speech Translation Through Text Rewrite**          | *Jing Wu, Shushu Wang, Kai Fan, Wei Luo, Minpeng Liao and Zhongqiang Huang* | [Industry Track Papers](https://coling2025.org/program/industry_track_papers/) |
+| **CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding** | *Johannes Kirmayr, Lukas Stappen, Phillip Schneider, Florian Matthes and Elisabeth Andre* | **voice**                                                    |
+
+### Audio
+
+| Paper                                                        | Authorlist                                                  | Status    |
+| ------------------------------------------------------------ | ----------------------------------------------------------- | --------- |
+| **Evaluating Open-Source ASR Systems: Performance Across Diverse Audio Conditions and Error Correction Methods** | *Saki Imai, Tahiya Chowdhury and Amanda J. Stent*           | Main      |
+| **Towards Cross-Lingual Audio Abuse Detection in Low-Resource Setting with Few-Shot Learning** | *Aditya Narayan Sankaran, Reza Farahbakhsh and Noel Crespi* |           |
+| **TriFine: A Large-Scale Dataset of Vision-Audio-Subtitle for Tri-Modal Machine Translation and Benchmark with Fine-Grained Annotated Tags** | *Boyu Guan, Yining Zhang, Yang Zhao and Chengqing Zong*     |           |
+| **A Benchmark and Robustness Study of In-Context-Learning with Large Language Models in Music Entity Detection** | *Simon Hachmeier and Robert Jäschke*                        | **music** |
 
 ## Useful Survey & Awesome Link
 
