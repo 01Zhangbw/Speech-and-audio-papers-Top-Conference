@@ -894,6 +894,6 @@ If you find this repository helpful, please consider citing:
 
 This repository is released under the [MIT license](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference/blob/main/LICENSE).
 
-## Star History
+## Star history
 
 [![Star History Chart](https://api.star-history.com/svg?repos=01Zhangbw/Speech-and-audio-papers-Top-Conference&type=Date)](https://www.star-history.com/#01Zhangbw/Speech-and-audio-papers-Top-Conference&Date)
