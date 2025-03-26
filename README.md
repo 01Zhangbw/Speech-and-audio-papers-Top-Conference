@@ -30,6 +30,8 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 
 🎉 [03/25/2025] UPDATE ***COLING 2025*** conference papers successfully!
 
+🎉 [03/26/2025] UPDATE ***NAACL 2024*** conference papers successfully!
+
 [Speech and audio papers@Top Conference](#speech-and-audio-paperstop-conference)
 
 * [ICLR'25](#ICLR25)
@@ -73,6 +75,9 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [COLING'25](#COLING25)
   * [Speech](#Speech-12)
   * [Audio](#Audio-12)
+* [NAACL'24](#NAACL24)
+  * [Speech](#Speech-13)
+  * [Audio](#Audio-13)
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 * [Citation](#citation)
 * [License](#license)
@@ -799,6 +804,49 @@ useful link: https://coling2025.org/program/main_conference_papers/
 | **Towards Cross-Lingual Audio Abuse Detection in Low-Resource Setting with Few-Shot Learning** | *Aditya Narayan Sankaran, Reza Farahbakhsh and Noel Crespi* |           |
 | **TriFine: A Large-Scale Dataset of Vision-Audio-Subtitle for Tri-Modal Machine Translation and Benchmark with Fine-Grained Annotated Tags** | *Boyu Guan, Yining Zhang, Yang Zhao and Chengqing Zong*     |           |
 | **A Benchmark and Robustness Study of In-Context-Learning with Large Language Models in Music Entity Detection** | *Simon Hachmeier and Robert Jäschke*                        | **music** |
+
+## NAACL'24
+
+### Speech
+
+useful link: https://2024.naacl.org/program/accepted_papers/
+
+| Paper                                                        | Authorlist                                                   | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| **An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation** | Pengzhi Gao, Ruiqing Zhang, Zhongjun He, Hua Wu, Haifeng Wang |        |
+| **Measuring Entrainment in Spontaneous Code-switched Speech** | Debasmita Bhattacharya, Siying Ding, Alayna Nguyen, Julia Hirschberg |        |
+| **Automatic Restoration of Diacritics for Speech Data Sets** | Sara Shatnawi, Sawsan Alqahtani, Hanan Aldarmaki             |        |
+| **Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis** | Nayeon Lee, Chani Jung, Junho Myung, Jiho Jin, Jose Camacho-Collados, Juho Kim, Alice Oh |        |
+| **Improving Adversarial Data Collection by Supporting Annotators: Lessons from GAHD, a German Hate Speech Dataset** | Janis Goldzycher, Paul Rottger, Gerold Schneider             |        |
+| **Lost in Transcription: Identifying and Quantifying the Accuracy Biases of Automatic Speech Recognition Systems Against Disfluent Speech** | Dena Mujtaba, Nihar R. Mahapatra, Megan Arney, J Scott Yaruss, Hope Gerlach-Houck, Caryn Herring, Jia Bin |        |
+| **Where are you from? Geolocating Speech and Applications to Language Identification** | Patrick Foley, Matthew Wiesner, Bismarck Bamfo Odoom, Leibny Paola Garcia Perera, Kenton Murray, Philipp Koehn |        |
+| **AudioChatLlama: Towards General-Purpose Speech Abilities for LLMs** | Yassir Fathullah, Chunyang Wu, Egor Lakomkin, Ke Li, Junteng Jia, Yuan Shangguan, Jay Mahadeokar, Ozlem Kalinli, Christian Fuegen, Mike Seltzer |        |
+| **NLP Systems That Can’t Tell Use from Mention Censor Counterspeech, but Teaching the Distinction Helps** | Kristina Gligoric, Myra Cheng, Lucia Zheng, Esin Durmus, Dan Jurafsky |        |
+| **Massive End-to-end Speech Recognition Models with Time Reduction** | Weiran Wang, Rohit Prabhavalkar, Haozhe Shan, Zhong Meng, Dongseong Hwang, Qiujia Li, Khe Chai Sim, Bo Li, James Qin, Xingyu Cai, Adam Stooke, Chengjian Zheng, Yanzhang He, Tara N Sainath, Pedro J Moreno Mengibar |        |
+| **ToXCL: A Unified Framework for Toxic Speech Detection and Explanation** | Nhat M. Hoang, Do Xuan Long, Duc Anh Do, Duc Anh Vu, Anh Tuan Luu |        |
+| **Intent-conditioned and Non-toxic Counterspeech Generation using Multi-Task Instruction Tuning with RLAIF** | Amey Hengle, Aswini Kumar Padhi, Sahajpreet Singh, Anil Bandhakavi, Md Shad Akhtar, Tanmoy Chakraborty |        |
+| **On the Effectiveness of Adversarial Robustness for Abuse Mitigation with Counterspeech** | Yi-Ling Chung, Jonathan Bright                               |        |
+| **Generalizable Multilingual Hate Speech Detection on Low Resource Indian Languages using Fair Selection in Federated Learning** | Akshay Singh, Rahul Thakur                                   |        |
+| **RoDia: A New Dataset for Romanian Dialect Identification from Speech** | Rotaru Codruț, Nicolae Catalin Ristea, Radu Tudor Ionescu    |        |
+| **Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training** | Pavel Denisov, Thang Vu                                      |        |
+| **R-BASS : Relevance-aided Block-wise Adaptation for Speech Summarization** | Roshan Sharma, Ruchira Sharma, Hira Dhamyal, Rita Singh, Bhiksha Raj |        |
+| **T3M: Text Guided 3D Human Motion Synthesis from Speech**   | Wenshuo Peng, Kaipeng Zhang, Sai Qian Zhang                  |        |
+| **i-Code V2: An Autoregressive Generation Framework over Vision, Language, and Speech Data** | Ziyi Yang, MAHMOUD KHADEMI, Yichong Xu, Reid Pryzant, Yuwei Fang, Chenguang Zhu, Dongdong Chen, Yao Qian, Xuemei Gao, Yi-Ling Chen, Robert Gmyr, Naoyuki Kanda, Noel C Codella, Bin Xiao, Yu Shi, Lu Yuan, Takuya Yoshioka, Michael Zeng, Xuedong Huang |        |
+| **Group Fairness in Multilingual Speech Recognition Models** | Anna Katrine van Zee, Marc van Zee, Anders Søgaard           |        |
+| **Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake** | Orchid Chetia Phukan, Gautam Siddharth Kashyap, Arun Balaji Buduru, Rajesh Sharma |        |
+| **HateModerate: Testing Hate Speech Detectors against Content Moderation Policies** | Jiangrui Zheng, Xueqing Liu, Mirazul Haque, Xing Qian, Guanqun Yang, Wei Yang |        |
+| **NLP for Counterspeech against Hate: A Survey and How-To Guide** | Helena Bonaldi, Yi-Ling Chung, Gavin Abercrombie, Marco Guerini |        |
+| **CM-TTS: Enhancing Real Time Text-to-Speech Synthesis Efficiency through Weighted Samplers and Consistency Models** | Xiang Li, FanBu, Ambuj Mehrish, Yingting Li, Jiale Han, Bo Cheng, Soujanya Poria |        |
+| **Prompt-Singer: Controllable Singing-Voice-Synthesis with Natural Language Prompt** | Yongqi Wang, Ruofan Hu, Rongjie Huang, Zhiqing Hong, Ruiqi Li, Wenrui Liu, Fuming You, Tao Jin, Zhou Zhao | voice  |
+
+### Audio
+
+| Paper                                                        | Authorlist                                                   | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| **Investigating the Emergent Audio Classification Ability of ASR Foundation Models** | Rao Ma, Adian Liusie, Mark Gales, Kate Knill                 |        |
+| **AudioChatLlama: Towards General-Purpose Speech Abilities for LLMs** | Yassir Fathullah, Chunyang Wu, Egor Lakomkin, Ke Li, Junteng Jia, Yuan Shangguan, Jay Mahadeokar, Ozlem Kalinli, Christian Fuegen, Mike Seltzer |        |
+| **Mustango: Toward Controllable Text-to-Music Generation**   | Jan Melechovsky, Zixun Guo, Deepanway Ghosal, Navonil Majumder, Dorien Herremans, Soujanya Poria | music  |
+| **MusiLingo: Bridging Music and Text with Pre-trained Language Models for Music Captioning and Query Response** | Zihao Deng, Yinghao Ma, Yudong Liu, Rongchen Guo, Ge Zhang, Wenhu Chen, Wenhao Huang, Emmanouil Benetos | music  |
 
 ## Useful Survey & Awesome Link
 
