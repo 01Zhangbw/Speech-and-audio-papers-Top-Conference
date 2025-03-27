@@ -71,7 +71,6 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 * [Citation](#citation)
 * [License](#license)
-* [Star history](#star-history)
 
 ## ICLR'25
 
@@ -801,7 +800,3 @@ If you find this repository helpful, please consider citing:
 ## License
 
 This repository is released under the [MIT license](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference/blob/main/LICENSE).
-
-## Star history
-
-[![Star History Chart](https://api.star-history.com/svg?repos=01Zhangbw/Speech-and-audio-papers-Top-Conference&type=Date)](https://www.star-history.com/#01Zhangbw/Speech-and-audio-papers-Top-Conference&Date)
