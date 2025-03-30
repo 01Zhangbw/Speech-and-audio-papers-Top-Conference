@@ -729,6 +729,7 @@ useful link: https://2025.naacl.org/program/accepted_papers/
 | **Developing multilingual speech synthesis system for Ojibwe, Mi’kmaq, and Maliseet** | Shenran Wang, Changbing Yang, Michael l parkhill, Chad Quinn, Christopher Hammerly, Jian Zhu |          |
 | **Cross-Lingual Transfer Learning for Speech Translation**   | Rao Ma, Mengjie Qian, Yassir Fathullah, Siyuan Tang, Mark Gales, Kate Knill |          |
 | **kNN Retrieval for Simple and Effective Zero-Shot Multi-speaker Text-to-Speech** | Karl El Hajal, Ajinkya Kulkarni, Enno Hermann, Mathew Magimai Doss |          |
+| **WaveFM: A High-Fidelity and Efficient Vocoder Based on Flow Matching** | Tianze Luo, Xingchen Miao, Wenbo Duan                        |          |
 | **DiVISe: Direct Visual-Input Speech Synthesis Preserving Speaker Characteristics And Intelligibility** | Yifan Liu, Yu Fang, Zhouhan Lin                              | Findings |
 | **BanTH: A Multi-label Hate Speech Detection Dataset for Transliterated Bangla** | Fabiha Haider, Fariha Tanjim Shifat, Md Farhan Ishmam, Md Sakib Ul Rahman Sourove, Deeparghya Dutta Barua, Md Fahim, Md Farhad Alam Bhuiyan |          |
 | **CDB: A Unified Framework for Hope Speech Detection Through Counterfactual, Desire and Belief** | Tulio Ferreira Leite da Silva, Gonzalo Freijedo Aduna, Farah Benamara, Alda Mari, Zongmin Li, Li Yue, Jian Su |          |
