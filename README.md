@@ -838,6 +838,7 @@ The number of this conference (speech&audio) is small.
 | **Contextualized Speech Recognition: Rethinking Second-Pass Rescoring with Generative Large Language Models** | *Yixuan Tang, Anthony K. H. Tung*                            |        |
 | **Speech-Forensics: Towards Comprehensive Synthetic Speech Dataset Establishment and Analysis** | *Zhoulin Ji, Chenhao Lin, Hang Wang, Chao Shen*              |        |
 | **Decoupling Breaks Data Barriers: A Decoupled Pre-training Framework for Multi-intent Spoken Language Understanding** | *Libo Qin, Qiguang Chen, Jingxuan Zhou, Qinzheng Li, Chunlin Lu, Wanxiang Che* |        |
+| **Recent Advances in End-to-End Simultaneous Speech Translation** | *Xiaoqian Liu, Guoqiang Hu, Yangfan Du, Erfeng He, YingFeng Luo, Chen Xu, Tong Xiao, Jingbo Zhu* | Survey |
 
 ### Audio
 
