@@ -4,7 +4,7 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 
 👏 **Feel free to collaborate and contribute to this GitHub repo.**
 
-🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~24 Mar, 2025
+🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 22 April, 2025
 
 🎉 [01/23/2025] UPDATE ***ICLR 2025*** conference papers successfully!
 
@@ -29,6 +29,8 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 🎉 [01/31/2025] UPDATE ***EMNLP 2024*** conference papers successfully!
 
 🎉 [03/24/2025] UPDATE ***NAACL 2025*** conference papers successfully!
+
+🎉 [04/22/2025] UPDATE ***AAAI 2025*** conference papers successfully!
 
 [Speech and audio papers@Top Conference](#speech-and-audio-paperstop-conference)
 
@@ -70,6 +72,9 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [NAACL'25](#NAACL25)
   * [Speech](#Speech-11)
   * [Audio](#Audio-11)
+* [AAAI'25](#AAAI25)
+  * [Speech](#Speech-12)
+  * [Audio](#Audio-12)
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 * [Citation](#citation)
 * [License](#license)
@@ -759,12 +764,60 @@ useful link: https://2025.naacl.org/program/accepted_papers/
 | **Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies** | Yingqiang Gao, Lukas Fischer, Alexa Lintner, Sarah Ebling    |        |
 | **Synthetic Audio Helps for Cognitive State Tasks**          | Adil Soubki, John Murzaku, Peter Zeng, Owen Rambow           |        |
 
+## AAAI'25
+
+### Speech
+
+| Paper                                                        | Authorlist                                                   | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| [ELLA-V: Stable Neural Codec Language Modeling with Alignment-Guided Sequence Reordering](https://ojs.aaai.org/index.php/AAAI/article/view/34703) | Yakun Song, Zhuo Chen, Xiaofei Wang, Ziyang Ma, Xie Chen     |        |
+| [Language model can listen while speaking](https://ojs.aaai.org/index.php/AAAI/article/view/34665) | Ziyang Ma, Yakun Song, Chenpeng Du, Jian Cong, Zhuo Chen, Yuping Wang, Yuxuan Wang, Xie Chen |        |
+| [VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization](https://ojs.aaai.org/index.php/AAAI/article/view/32595) | Tao Liu, Ziyang Ma, Qi Chen, Feilong Chen, Shuai Fan, Xie Chen, Kai Yu |        |
+| [Speech Recognition Meets Large Language Model: Benchmarking, Models, and Exploration](https://ojs.aaai.org/index.php/AAAI/article/view/34666) | Ziyang Ma, Guanrou Yang, Yifan Yang, Zhifu Gao, Jiaming Wang, Zhihao Du, Fan Yu, Qian Chen, Siqi Zheng, Shiliang Zhang, Xie Chen |        |
+| [DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech](https://arxiv.org/abs/2503.17059) |                                                              |        |
+| [FaceSpeak: Expressive and High-Quality Speech Synthesis from Human Portraits of Different Styles](https://arxiv.org/abs/2501.03181) |                                                              |        |
+| [Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation](https://arxiv.org/abs/2501.00868) |                                                              |        |
+| [SECodec: Structural Entropy-based Compressive Speech Representation Codec for Speech Language Models](https://arxiv.org/abs/2501.00018) |                                                              |        |
+| [EmoReg: Directional Latent Vector Modeling for Emotional Intensity Regularization in Diffusion-based Voice Conversion](https://arxiv.org/abs/2412.20359) |                                                              |        |
+| [BSDB-Net: Band-Split Dual-Branch Network with Selective State Spaces Mechanism for Monaural Speech Enhancement](https://arxiv.org/abs/2412.19099) |                                                              |        |
+| [Enhancing Audiovisual Speech Recognition through Bifocal Preference Optimization](https://arxiv.org/abs/2412.19005) |                                                              |        |
+| [MathSpeech: Leveraging Small LMs for Accurate Conversion in Mathematical Speech-to-Formula](https://arxiv.org/abs/2412.15655) |                                                              |        |
+| [Speech Watermarking with Discrete Intermediate Representations](https://arxiv.org/abs/2412.13917) |                                                              |        |
+| [ProsodyFM: Unsupervised Phrasing and Intonation Control for Intelligible Speech Synthesis](https://arxiv.org/abs/2412.11795) |                                                              |        |
+| [Complex-Cycle-Consistent Diffusion Model for Monaural Speech Enhancement](https://arxiv.org/abs/2412.08856) |                                                              |        |
+| [StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching](https://arxiv.org/abs/2412.04724) |                                                              |        |
+| [DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation](https://arxiv.org/abs/2408.06010) |                                                              |        |
+
+### Audio
+
+| Paper                                                        | Authorlist                                                   | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| [Codec does matter: Exploring the semantic shortcoming of codec for audio language model](https://ojs.aaai.org/index.php/AAAI/article/view/34761) | Zhen Ye, Peiwen Sun, Jiahe Lei, Hongzhan Lin, Xu Tan, Zheqi Dai, Qiuqiang Kong, Jianyi Chen, Jiahao Pan, Qifeng Liu, Yike Guo, Wei Xue |        |
+| [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](https://arxiv.org/abs/2502.12572) |                                                              |        |
+| [MIDI-GPT: A Controllable Generative Model for Computer-Assisted Multitrack Music Composition](https://arxiv.org/abs/2501.17011) |                                                              |        |
+| [GVMGen: A General Video-to-Music Generation Model with Hierarchical Attentions](https://arxiv.org/abs/2501.09972) |                                                              |        |
+| [Detecting Music Performance Errors with Transformers](https://arxiv.org/abs/2501.02030) |                                                              |        |
+| [SoundBrush: Sound as a Brush for Visual Scene Editing](https://arxiv.org/abs/2501.00645) |                                                              |        |
+| [Tri-Ergon: Fine-grained Video-to-Audio Generation with Multi-modal Conditions and LUFS Control](https://arxiv.org/abs/2412.20378) |                                                              |        |
+| [SongGLM: Lyric-to-Melody Generation with 2D Alignment Encoding and Multi-Task Pre-Training](https://arxiv.org/abs/2412.18107) |                                                              |        |
+| [JoVALE: Detecting Human Actions in Video Using Audiovisual and Language Contexts](https://arxiv.org/abs/2412.13708) |                                                              |        |
+| [Query-centric Audio-Visual Cognition Network for Moment Retrieval, Segmentation and Step-Captioning](https://arxiv.org/abs/2412.13543) |                                                              |        |
+| [Dense Audio-Visual Event Localization under Cross-Modal Consistency and Multi-Temporal Granularity Collaboration](https://arxiv.org/abs/2412.12628) |                                                              |        |
+| [DLF: Disentangled-Language-Focused Multimodal Sentiment Analysis](https://arxiv.org/abs/2412.12225) |                                                              |        |
+| [Region-Based Optimization in Continual Learning for Audio Deepfake Detection](https://arxiv.org/abs/2412.11551) |                                                              |        |
+| [Enriching Multimodal Sentiment Analysis through Textual Emotional Descriptions of Visual-Audio Content](https://arxiv.org/abs/2412.10460) |                                                              |        |
+| [GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expression](https://arxiv.org/abs/2412.09296) |                                                              |        |
+| [PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis](https://arxiv.org/abs/2412.08504) |                                                              |        |
+| [Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation](https://arxiv.org/abs/2408.15876) |                                                              |        |
+| [JEN-1 Composer: A Unified Framework for High-Fidelity Multi-Track Music Generation](https://arxiv.org/abs/2310.19180) |                                                              |        |
+
 ## Useful Survey & Awesome Link
+
++ Expressive TTS: https://github.com/01Zhangbw/Awesome-Expressive-speech-synthesis
++ Disordered Speech: https://github.com/01Zhangbw/Awesome-Disordered-Speech
 
 + Neural Codec & Speech Language Models: https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models
 + Controllable TTS: https://github.com/imxtx/awesome-controllabe-speech-synthesis
-+ Expressive TTS: https://github.com/01Zhangbw/Awesome-Expressive-speech-synthesis
-+ Disordered Speech: https://github.com/01Zhangbw/Awesome-Disordered-Speech
 + Large Audio Model: https://github.com/EmulationAI/awesome-large-audio-models
 + Codec-SuperB: https://github.com/voidful/Codec-SUPERB
 + Next Token Prediction: https://github.com/LMM101/Awesome-Multimodal-Next-Token-Prediction
