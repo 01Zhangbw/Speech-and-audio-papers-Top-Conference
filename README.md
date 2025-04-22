@@ -810,6 +810,10 @@ useful link: https://2025.naacl.org/program/accepted_papers/
 | [PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis](https://arxiv.org/abs/2412.08504) |                                                              |        |
 | [Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation](https://arxiv.org/abs/2408.15876) |                                                              |        |
 | [JEN-1 Composer: A Unified Framework for High-Fidelity Multi-Track Music Generation](https://arxiv.org/abs/2310.19180) |                                                              |        |
+| [SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor](https://arxiv.org/abs/2412.13786) |                                                              |        |
+| [CSSinger: End-to-End Chunkwise Streaming Singing Voice Synthesis System Based on Conditional Variational Autoencoder](https://arxiv.org/abs/2412.08918) |                                                              |        |
+| [Read, Watch and Scream! Sound Generation from Text and Video](https://arxiv.org/abs/2407.05551) |                                                              |        |
+| [Mental-Perceiver: Audio-Textual Multi-Modal Learning for Estimating Mental Disorders](https://arxiv.org/abs/2408.12088) |                                                              |        |
 
 ## Useful Survey & Awesome Link
 
