@@ -32,6 +32,8 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 
 🎉 [04/22/2025] UPDATE ***AAAI 2025*** conference papers successfully!
 
+🎉 [04/22/2025] UPDATE ***IJCAI 2024*** conference papers successfully!
+
 [Speech and audio papers@Top Conference](#speech-and-audio-paperstop-conference)
 
 * [ICLR'25](#ICLR25)
@@ -75,6 +77,9 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 * [AAAI'25](#AAAI25)
   * [Speech](#Speech-12)
   * [Audio](#Audio-12)
+* [IJCAI'24](#IJCAI24)
+  * [Speech](#Speech-13)
+  * [Audio](#Audio-13)
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 * [Citation](#citation)
 * [License](#license)
@@ -814,6 +819,35 @@ useful link: https://2025.naacl.org/program/accepted_papers/
 | [CSSinger: End-to-End Chunkwise Streaming Singing Voice Synthesis System Based on Conditional Variational Autoencoder](https://arxiv.org/abs/2412.08918) |                                                              |        |
 | [Read, Watch and Scream! Sound Generation from Text and Video](https://arxiv.org/abs/2407.05551) |                                                              |        |
 | [Mental-Perceiver: Audio-Textual Multi-Modal Learning for Estimating Mental Disorders](https://arxiv.org/abs/2408.12088) |                                                              |        |
+
+## IJCAI'24
+
+useful link: https://ijcai24.org/main-track-accepted-papers/index.html
+
+The number of this conference (speech&audio) is small.
+
+### Speech
+
+| Paper                                                        | Authorlist                                                   | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| **Separate in the Speech Chain: Cross-Modal Conditional Audio-Visual Target Speech Extraction** | *Zhaoxi Mu, Xinyu Yang*                                      |        |
+| **Bridge to Non-Barrier Communication: Gloss-Prompted Fine-Grained Cued Speech Gesture Generation with Diffusion Model** | *Wentao Lei, Li Liu, Jun Wang*                               |        |
+| **Two-stage Semi-supervised Speaker Recognition with Gated Label Learning** | *Xingmei Wang, Jiaxiang Meng, Kong Aik Lee, Boquan Li, Jinghan Liu* |        |
+| **Discriminative Feature Decoupling Enhancement for Speech Forgery Detection** | *Yijun Bei, Xing Zhou, Erteng Liu, Yang Gao, Sen Lin, Kewei Gao, Zunlei Feng* |        |
+| **Innovative Directional Encoding in Speech Processing: Leveraging Spherical Harmonics Injection for Multi-Channel Speech Enhancement** | *Jiahui Pan, Pengjie Shen, Hui Zhang, Xueliang Zhang*        |        |
+| **Contextualized Speech Recognition: Rethinking Second-Pass Rescoring with Generative Large Language Models** | *Yixuan Tang, Anthony K. H. Tung*                            |        |
+| **Speech-Forensics: Towards Comprehensive Synthetic Speech Dataset Establishment and Analysis** | *Zhoulin Ji, Chenhao Lin, Hang Wang, Chao Shen*              |        |
+| **Decoupling Breaks Data Barriers: A Decoupled Pre-training Framework for Multi-intent Spoken Language Understanding** | *Libo Qin, Qiguang Chen, Jingxuan Zhou, Qinzheng Li, Chunlin Lu, Wanxiang Che* |        |
+
+### Audio
+
+| Paper                                                        | Authorlist                                                   | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| **EAT: Self-Supervised Pre-Training with Efficient Audio Transformer** | *Wenxi Chen, Yuzhe Liang, Ziyang Ma, Zhisheng Zheng, Xie Chen* |        |
+| **Generating More Audios for End-to-End Spoken Language Understanding** | *Xuxin Cheng, Yuexian Zou*                                   |        |
+| **BATON: Aligning Text-to-Audio Model Using Human Preference Feedback** | *Huan Liao, Haonan Han, Kai Yang, Tianjiao Du, Rui Yang, Qinmei Xu, Zunnan Xu, Jingquan Liu, Jiasheng Lu, Xiu Li* |        |
+| **HyDiscGAN: A Hybrid Distributed cGAN for Audio-Visual Privacy Preservation in Multimodal Sentiment Analysis** | *Zhuojia Wu, Qi Zhang, Duoqian Miao, Kun Yi, Wei Fan, Liang Hu* |        |
+| **InstructME: An Instruction Guided Music Edit Framework with Latent Diffusion Models** | *Bing Han, Junyu Dai, Weituo Hao, Xinyan He, Dong Guo, Jitong Chen, Yuxuan Wang, Yanmin Qian, Xuchen Song* |        |
 
 ## Useful Survey & Awesome Link
 
