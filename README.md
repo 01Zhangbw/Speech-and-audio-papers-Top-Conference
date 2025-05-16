@@ -4,7 +4,7 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 
 👏 **Feel free to collaborate and contribute to this GitHub repo.**
 
-🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 22 April, 2025
+🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 16 May, 2025
 
 🎉 [01/23/2025] UPDATE ***ICLR 2025*** conference papers successfully!
 
@@ -34,55 +34,59 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 
 🎉 [04/22/2025] UPDATE ***IJCAI 2024*** conference papers successfully!
 
-[Speech and audio papers@Top Conference](#speech-and-audio-paperstop-conference)
+🎉 [05/16/2025] UPDATE ***ICML 2025*** conference papers successfully!
 
-* [ICLR'25](#ICLR25)
-  * [Speech](#Speech)
-  * [Audio](#Audio)
-  * [Summary](#Summary)
-* [ICLR'24](#ICLR24)
-  * [Speech](#Speech-1)
-  * [Audio](#Audio-1)
-  * [Summary](#Summary-1)
-* [ICML'24](#ICML24)
-  * [Speech](#Speech-2)
-  * [Audio](#Audio-2)
-* [NeurIPS'24](#NeurIPS24)
-  * [Speech](#Speech-3)
-  * [Audio](#Audio-3)
-* [ICML'23](#ICML23)
-  * [Speech](#Speech-4)
-  * [Audio](#Audio-4)
-* [NeurIPS'23](#NeurIPS23)
-  * [Speech](#Speech-5)
-  * [Audio](#Audio-5)
-* [ACMMM'24](#ACMMM24)
-  * [Speech](#Speech-6)
-  * [Audio](#Audio-6)
-* [ICLR'23](#ICLR23)
-  * [Speech](#Speech-7)
-  * [Audio](#Audio-7)
-* [AAAI'24](#AAAI24)
-  * [Speech](#Speech-8)
-  * [Audio](#Audio-8)
-* [ACL'24](#ACL24)
-  * [Speech](#Speech-9)
-  * [Audio](#Audio-9)
-* [EMNLP'24](#EMNLP24)
-  * [Speech](#Speech-10)
-  * [Audio](#Audio-10)
-* [NAACL'25](#NAACL25)
-  * [Speech](#Speech-11)
-  * [Audio](#Audio-11)
-* [AAAI'25](#AAAI25)
-  * [Speech](#Speech-12)
-  * [Audio](#Audio-12)
-* [IJCAI'24](#IJCAI24)
-  * [Speech](#Speech-13)
-  * [Audio](#Audio-13)
-* [Useful Survey & Awesome Link](#useful-survey--awesome-link)
-* [Citation](#citation)
-* [License](#license)
+* [Speech and audio papers@Top Conference](#speech-and-audio-paperstop-conference)
+  * [ICLR'25](#ICLR25)
+    * [Speech](#Speech)
+    * [Audio](#Audio)
+    * [Summary](#Summary)
+  * [ICLR'24](#ICLR24)
+    * [Speech](#Speech-2)
+    * [Audio](#Audio-2)
+    * [Summary](#Summary-2)
+  * [ICML'24](#ICML24)
+    * [Speech](#Speech-3)
+    * [Audio](#Audio-3)
+  * [NeurIPS'24](#NeurIPS24)
+    * [Speech](#Speech-4)
+    * [Audio](#Audio-4)
+  * [ICML'23](#ICML23)
+    * [Speech](#Speech-5)
+    * [Audio](#Audio-5)
+  * [NeurIPS'23](#NeurIPS23)
+    * [Speech](#Speech-6)
+    * [Audio](#Audio-6)
+  * [ACMMM'24](#ACMMM24)
+    * [Speech](#Speech-7)
+    * [Audio](#Audio-7)
+  * [ICLR'23](#ICLR23)
+    * [Speech](#Speech-8)
+    * [Audio](#Audio-8)
+  * [AAAI'24](#AAAI24)
+    * [Speech](#Speech-9)
+    * [Audio](#Audio-9)
+  * [ACL'24](#ACL24)
+    * [Speech](#Speech-10)
+    * [Audio](#Audio-10)
+  * [EMNLP'24](#EMNLP24)
+    * [Speech](#Speech-11)
+    * [Audio](#Audio-11)
+  * [NAACL'25](#NAACL25)
+    * [Speech](#Speech-12)
+    * [Audio](#Audio-12)
+  * [AAAI'25](#AAAI25)
+    * [Speech](#Speech-13)
+    * [Audio](#Audio-13)
+  * [IJCAI'24](#IJCAI24)
+    * [Speech](#Speech-14)
+    * [Audio](#Audio-14)
+  * [ICML'25](#ICML25)
+    * [Speech](#Speech-15)
+    * [Audio](#Audio-15)
+  * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
+  * [Citation](#citation)
+  * [License](#license)
 
 ## ICLR'25
 
@@ -849,6 +853,50 @@ The number of this conference (speech&audio) is small.
 | **BATON: Aligning Text-to-Audio Model Using Human Preference Feedback** | *Huan Liao, Haonan Han, Kai Yang, Tianjiao Du, Rui Yang, Qinmei Xu, Zunnan Xu, Jingquan Liu, Jiasheng Lu, Xiu Li* |        |
 | **HyDiscGAN: A Hybrid Distributed cGAN for Audio-Visual Privacy Preservation in Multimodal Sentiment Analysis** | *Zhuojia Wu, Qi Zhang, Duoqian Miao, Kun Yi, Wei Fan, Liang Hu* |        |
 | **InstructME: An Instruction Guided Music Edit Framework with Latent Diffusion Models** | *Bing Han, Junyu Dai, Weituo Hao, Xinyan He, Dong Guo, Jitong Chen, Yuxuan Wang, Yanmin Qian, Xuchen Song* |        |
+
+## ICML'25
+
+### Speech
+
+| Paper                                                        | Authorlist | Status |
+| ------------------------------------------------------------ | ---------- | ------ |
+| [MoHAVE: Mixture of Hierarchical Audio-Visual Experts for Robust Speech Recognition](https://icml.cc/virtual/2025/poster/44834) |            |        |
+| [The Brain's Bitter Lesson: Scaling Speech Decoding With Self-Supervised Learning](https://icml.cc/virtual/2025/poster/44019) |            |        |
+| [DMOSpeech: Direct Metric Optimization via Distilled Diffusion Model in Zero-Shot Speech Synthesis](https://icml.cc/virtual/2025/poster/44048) |            |        |
+| [Do Not Mimic My Voice : Speaker Identity Unlearning for Zero-Shot Text-to-Speech](https://icml.cc/virtual/2025/poster/46647) |            |        |
+| [BinauralFlow: A Causal and Streamable Approach for High-Quality Binaural Speech Synthesis with Flow Matching Models](https://icml.cc/virtual/2025/poster/46249) |            |        |
+| [Emotional Face-to-Speech](https://icml.cc/virtual/2025/poster/45920) |            |        |
+| [DiTAR: Diffusion Transformer Autoregressive Modeling for Speech Generation](https://icml.cc/virtual/2025/poster/46258) |            |        |
+| [Unsupervised Blind Speech Separation with a Diffusion Prior](https://icml.cc/virtual/2025/poster/46648) |            |        |
+| [Sortformer: A Novel Approach for Permutation-Resolved Speaker Supervision in Speech-to-Text Systems](https://icml.cc/virtual/2025/poster/46140) |            |        |
+| [High-Fidelity Simultaneous Speech-To-Speech Translation](https://icml.cc/virtual/2025/poster/44512) |            |        |
+| [Improving Conversational Capabilities of Speech Language Models via Generative Dual-channel Spoken Dialogue Learning](https://icml.cc/virtual/2025/poster/46439) |            |        |
+| [Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM](https://icml.cc/virtual/2025/poster/43854) |            |        |
+| [OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models](https://icml.cc/virtual/2025/poster/43563) |            |        |
+| [Long-Form Speech Generation with Spoken Language Models](https://icml.cc/virtual/2025/poster/46499) |            |        |
+| [Aligning Spoken Dialogue Models from User Interactions](https://icml.cc/virtual/2025/poster/44228) |            | spoken |
+| [A Variational Framework for Improving Naturalness in Generative Spoken Language Models](https://icml.cc/virtual/2025/poster/45785) |            |        |
+| [De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks](https://icml.cc/virtual/2025/poster/45768) |            |        |
+
+### Audio
+
+| Paper                                                        | Authorlist | Status |
+| ------------------------------------------------------------ | ---------- | ------ |
+| [XAttnMark: Learning Robust Audio Watermarking with Cross-Attention](https://icml.cc/virtual/2025/poster/43452) |            |        |
+| [ETTA: Elucidating the Design Space of Text-to-Audio Models](https://icml.cc/virtual/2025/poster/44876) |            |        |
+| [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://icml.cc/virtual/2025/poster/43577) |            |        |
+| [Sounding that Object: Interactive Object-Aware Image to Audio Generation](https://icml.cc/virtual/2025/poster/46382) |            |        |
+| [ALMTokenizer: A Low-bitrate and Semantic-rich Audio Codec Tokenizer for Audio Language Modeling](https://icml.cc/virtual/2025/poster/45316) |            |        |
+| [Generative Audio Language Modeling with Continuous-valued Tokens and Masked Next-Token Prediction](https://icml.cc/virtual/2025/poster/45195) |            |        |
+| [Supervised Contrastive Learning from Weakly-Labeled Audio Segments for Musical Version Matching](https://icml.cc/virtual/2025/poster/46594) |            |        |
+| [FLAM: Frame-Wise Language-Audio Modeling](https://icml.cc/virtual/2025/poster/46310) |            |        |
+| [MATS: An Audio Language Model under Text-only Supervision](https://icml.cc/virtual/2025/poster/44538) |            |        |
+| [AGAV-Rater: Adapting Large Multimodal Model for AI-Generated Audio-Visual Quality Assessment](https://icml.cc/virtual/2025/poster/43704) |            |        |
+| [AudioSpace: Generating Spatial Audio from 360-Degree Video](https://icml.cc/virtual/2025/poster/43952) |            |        |
+| [IMPACT: Iterative Mask-based Parallel Decoding for Text-to-Audio Generation with Diffusion Modeling](https://icml.cc/virtual/2025/poster/46189) |            |        |
+| [video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model](https://icml.cc/virtual/2025/poster/43555) |            |        |
+| [Efficient Fine-Grained Guidance for Diffusion-Based Symbolic Music Generation](https://icml.cc/virtual/2025/poster/44043) |            | music  |
+| [MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners](https://icml.cc/virtual/2025/poster/45072) |            |        |
 
 ## Useful Survey & Awesome Link
 
