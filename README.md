@@ -38,9 +38,9 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 
 * [Speech and audio papers@Top Conference](#speech-and-audio-paperstop-conference)
   * [ICLR'25](#ICLR25)
-    * [Speech](#Speech)
-    * [Audio](#Audio)
-    * [Summary](#Summary)
+    * [Speech](#Speech-1)
+    * [Audio](#Audio-1)
+    * [Summary](#Summary-1)
   * [ICLR'24](#ICLR24)
     * [Speech](#Speech-2)
     * [Audio](#Audio-2)
