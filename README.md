@@ -380,7 +380,6 @@ useful link: https://nips.cc/virtual/2024/papers.html?filter=titles&search=audio
 | [Spike-based Neuromorphic Model for Sound Source Localization](https://nips.cc/virtual/2024/poster/96112) | sound  |
 | [Images that Sound: Composing Images and Sounds on a Single Canvas](https://nips.cc/virtual/2024/poster/94585) | sound  |
 | [The iNaturalist Sounds Dataset](https://nips.cc/virtual/2024/poster/97701) | sound  |
-| [SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation](https://icml.cc/virtual/2025/poster/44792) | song   |
 | [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://nips.cc/virtual/2024/poster/97428) | music  |
 | [MoMu-Diffusion: On Learning Long-Term Motion-Music Synchronization and Correspondence](https://nips.cc/virtual/2024/poster/94669) | music  |
 | [Algorithmic Collective Action in Recommender Systems: Promoting Songs by Reordering Playlists](https://nips.cc/virtual/2024/poster/93164) | song   |
@@ -984,7 +983,7 @@ may not complete. (Welcome to issue to add🔥, if not correct, welcome to issue
 | Predicting Turn-Taking and Backchannel in Human-Machine Conversations Using Linguistic, Acoustic, and Visual Signals |            |                                                      |
 | WhiSPA: Semantically and Psychologically Aligned Whisper with Self-Supervised Contrastive and Student-Teacher Learning |            |                                                      |
 | MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder |            |                                                      |
-| **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching** |            |                                                      |
+| **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching** |            | [paper](https://arxiv.org/abs/2410.06885)            |
 | CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought |            |                                                      |
 | GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement |            |                                                      |
 | [InSerter: Speech Instruction Following with Unsupervised Interleaved Pre-training](https://arxiv.org/abs/2503.02769) |            |                                                      |
