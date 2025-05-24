@@ -1,7 +1,7 @@
 # Speech and audio papers@Top Conference (Update Regularly)
 
 Hi there! Your ⭐ Star is my biggest motivation to keep updating! Welcome to discuss in Issues or collaborate via PRs👏 Feel free to contact📧 me via zhangbw0102@gmail.com
-![Daily Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F01Zhangbw%2FSpeech-and-audio-papers-Top-Conference&label=Daily%20Visitors&labelColor=%232ccce4&countColor=%23d9e3f0)
+
 
 🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 24 May, 2025
 
