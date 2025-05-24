@@ -621,6 +621,8 @@ https://github.com/DmitryRyumin/AAAI-2024-Papers
 
 useful link: https://2024.aclweb.org/program/main_conference_papers/#long-papers
 
+https://2024.aclweb.org/program/finding_papers/
+
 ### Speech
 
 | Paper                                                        | Authorlist                                                   | Status                                                       |
@@ -656,7 +658,7 @@ useful link: https://2024.aclweb.org/program/main_conference_papers/#long-papers
 | **Growing Trees on Sounds: Assessing Strategies for End-to-End Dependency Parsing of Speech** | *Adrien Pupier, Maximin Coavoux, Jérôme Goulian, Benjamin Lecouteux* | Short, [link](https://aclanthology.org/2024.acl-short.22.pdf) |
 | **Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster** | *Agostina Calabrese, Leonardo Neves, Neil Shah, Maarten W. Bos, Björn Ross, Mirella Lapata, Francesco Barbieri* | https://aclanthology.org/2024.acl-short.38.pdf               |
 | **On the Semantic Latent Space of Diffusion-Based Text-To-Speech Models** | *Miri Varshavsky, Roy Hirsch, Regev Cohen, Tomer Golany, Daniel Freedman, Ehud Rivlin* | https://aclanthology.org/2024.acl-short.24.pdf               |
-| **Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models** | https://2024.aclweb.org/program/finding_papers/              | findings,                                                    |
+| **Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models** |                                                              | Findings,                                                    |
 | **Wav2SQL: Direct Generalizable Speech-To-SQL Parsing**      |                                                              |                                                              |
 | **Multi-Modal Retrieval For Large Language Model Based Speech Recognition** |                                                              |                                                              |
 | **ViHateT5: Enhancing Hate Speech Detection in Vietnamese With a Unified Text-to-Text Transformer Model** |                                                              |                                                              |
@@ -684,15 +686,17 @@ useful link: https://2024.aclweb.org/program/main_conference_papers/#long-papers
 
 ### Audio
 
+https://2024.aclweb.org/program/finding_papers/
+
 | Paper                                                        | Authorlist                                                   | Status                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension** | *Qian Yang, Jin Xu, Wenrui Liu, Yunfei Chu, Ziyue Jiang, Xiaohuan Zhou, Yichong Leng, Yuanjun Lv, Zhou Zhao, Chang Zhou, Jingren Zhou* | Long, [link](https://aclanthology.org/2024.acl-long.109.pdf) |
 | **StreamAtt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection** | *Sara Papi, Marco Gaido, Matteo Negri, Luisa Bentivogli*     | https://aclanthology.org/2024.acl-long.202.pdf               |
 | **M$^3$AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset** | *Zhe Chen, Heyang Liu, Wenyi Yu, Guangzhi Sun, Hongcheng Liu, Ji Wu, Chao Zhang, Yu Wang, Yanfeng Wang* | https://aclanthology.org/2024.acl-long.489.pdf               |
 | **XLAVS-R: Cross-Lingual Audio-Visual Speech Representation Learning for Noise-Robust Speech Perception** | *HyoJung Han, Mohamed Anwar, Juan Pino, Wei-Ning Hsu, Marine Carpuat, Bowen Shi, Changhan Wang* | https://aclanthology.org/2024.acl-long.697.pdf               |
-| **MuTox: Universal MUltilingual Audio-based TOXicity Dataset and Zero-shot Detector** | https://2024.aclweb.org/program/finding_papers/              | findings                                                     |
-| **X-ACE: Explainable and Multi-factor Audio Captioning Evaluation** |                                                              |                                                              |
-| **Deepfake Defense: Constructing and Evaluating a Specialized Urdu Deepfake Audio Dataset** |                                                              |                                                              |
+| **MuTox: Universal MUltilingual Audio-based TOXicity Dataset and Zero-shot Detector** | *Marta R. Costa-jussà, Mariano Coria Meglioli, Pierre Andrews, David Dale, Prangthip Hansanti, Elahe Kalbassi, Alexandre Mourachko, Christophe Ropers, Carleigh Wood* | Findings                                                     |
+| **X-ACE: Explainable and Multi-factor Audio Captioning Evaluation** | *Qian Wang, Jia-Chen Gu, Zhen-Hua Ling*                      |                                                              |
+| **Deepfake Defense: Constructing and Evaluating a Specialized Urdu Deepfake Audio Dataset** | *Sheza Munir, Wassay Sajjad, Mukeet Raza, Emaan Mujahid Abbas, Abdul Hameed Azeemi, Ihsan Ayyub Qazi, Agha Ali Raza* |                                                              |
 
 ## EMNLP'24
 
