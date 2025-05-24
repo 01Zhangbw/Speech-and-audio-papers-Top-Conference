@@ -173,44 +173,46 @@ It includes the papers on speech (rate is good or middle, often more than 5), no
 
 Total speech papers@ICLR25 number is **70+**; We select  **36** papers.
 
-| Paper                                                        | status              | average rate |
-| ------------------------------------------------------------ | ------------------- | ------------ |
-| [Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](https://openreview.net/forum?id=weM4YBicIP) | con                 | 8.00         |
-| [CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation](https://openreview.net/forum?id=vaEPihQsAA) |                     | 7.60         |
-| [$\texttt{BirdSet}$: A Large-Scale Dataset for Audio Classification in Avian Bioacoustics](https://openreview.net/forum?id=dRXxFEY8ZE) |                     | 7.50         |
-| [ADIFF: Explaining audio difference using natural language](https://openreview.net/forum?id=l4fMj4Vnly) |                     | 7.50         |
-| [ Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation](https://openreview.net/forum?id=qPx3i9sMxv) |                     | 7.50         |
-| [FlowDec: A flow-based full-band general audio codec with high perceptual quality](https://openreview.net/forum?id=uxDFlPGRLX) |                     | 7.00         |
-| [ I Can Hear You: Selective Robust Training for Deepfake Audio Detection](https://openreview.net/forum?id=2GcR9bO620) | con                 | 7.00         |
-| [ SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes](https://openreview.net/forum?id=odU59TxdiB) |                     | 7.00         |
-| [RFWave: Multi-band Rectified Flow for Audio Waveform Reconstruction](https://openreview.net/forum?id=gRmWtOnTLK) |                     | 6.80         |
-| [Enhancing Deception Detection with Cognitive Load Features: An Audio-Visual Approach](https://openreview.net/forum?id=WNZNsyzcaB) |                     | 6.75         |
-| [ Sylber: Syllabic Embedding Representation of Speech from Raw Audio](https://openreview.net/forum?id=FyMjfDQ9RO) |                     | 6.75         |
-| [Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data](https://openreview.net/forum?id=bR1J7SpzrD) |                     | 6.75         |
-| [ Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation](https://openreview.net/forum?id=WEQL5ksDnB) |                     | 6.75         |
-| [ Audio Large Language Models Can Be Descriptive Speech Quality Evaluators](https://openreview.net/forum?id=U42TkrEDzb) |                     | 6.75         |
-| [ Fugatto 1: Foundational Generative Audio Transformer Opus 1](https://openreview.net/forum?id=B2Fqu7Y2cd) |                     | 6.75         |
-| [WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling](https://openreview.net/forum?id=yBlVlS2Fd9) | 35810               | 6.50         |
-| [EcoFace: Audio-Visual Emotional Co-Disentanglement Speech-Driven 3D Talking Face Generation](https://openreview.net/forum?id=iDcWYtYUwX) |                     | 6.50         |
-| [ViSAGe: Video-to-Spatial Audio Generation](https://openreview.net/forum?id=8bF1Vaj9tm) |                     | 6.40         |
-| [Aligned Better, Listen Better For Audio-Visual Large Language Models](https://openreview.net/forum?id=1SYUKPeM12) |                     | 6.25         |
-| [Contrastive Learning from Synthetic Audio Doppelgängers](https://openreview.net/forum?id=XRtyVELwr6) |                     | 6.25         |
-| [AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models](https://openreview.net/forum?id=jTEKTdI3K9) |                     | 6.20         |
-| [ Elucidating the Design Space of Text-to-Audio Models](https://openreview.net/forum?id=xmgvF0sLIn) | 5568, re            | 6.00         |
-| [Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation](https://openreview.net/forum?id=rkzabmWl5k) |                     | 6.00         |
-| [Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation](https://openreview.net/forum?id=agbiPPuSeQ) |                     | 6.00         |
-| [ Rethinking Audio-Visual Adversarial Vulnerability from Temporal and Modality Perspectives](https://openreview.net/forum?id=ePJrZLIqpV) |                     | 6.00         |
-| [Talking Turns: Benchmarking Audio Foundation Models on Turn-Taking Dynamics](https://openreview.net/forum?id=2e4ECh0ikn) |                     | 5.80         |
-| [Active Audio Cancellation with Multi-Band Mamba Network](https://openreview.net/forum?id=LwLaFpJpfM) | 3668, re            | 5.75         |
-| [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://openreview.net/forum?id=VeSsiD0DP9) | 5666, re            | 5.75         |
-| [AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models](https://openreview.net/forum?id=0BujOfTqab) | **3388, accepted**  | 5.50         |
-| [ NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics](https://openreview.net/forum?id=hJVdwBpWjt) | **3,5,8, accepted** | 5.33         |
-| [ Taming Data and Transformers for Audio Generation](https://openreview.net/forum?id=lidVssyB7G) | 3666, re            | 5.25         |
-| [ AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation](https://openreview.net/forum?id=u8SYRtXDsZ) | 5556, re            | 5.25         |
-| [Segment, Associate, and Classify: Decoupled Audio-Visual Segmentation Framework](https://openreview.net/forum?id=8VnS320esG) | 5556 withdraw       | 5.25         |
-| [Reverse the auditory processing pathway: Coarse-to-fine audio reconstruction from fMRI](https://openreview.net/forum?id=3JoLo0mmHH) | 3558, re            | 5.25         |
-| [ Collaborative Hybrid Propagator for Temporal Misalignment in Audio-Visual Segmentation](https://openreview.net/forum?id=yqJoqtUwSI) | 35558, withdraw     | 5.20         |
-| [T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback](https://openreview.net/forum?id=H8QvefExFf) | 3566, withdraw      | 5.00         |
+| Paper                                                        | status               | average rate |
+| ------------------------------------------------------------ | -------------------- | ------------ |
+| [Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](https://openreview.net/forum?id=weM4YBicIP) | con                  | 8.00         |
+| [CyberHost: A One-stage Diffusion Framework for Audio-driven Talking Body Generation](https://openreview.net/forum?id=vaEPihQsAA) |                      | 7.60         |
+| [$\texttt{BirdSet}$: A Large-Scale Dataset for Audio Classification in Avian Bioacoustics](https://openreview.net/forum?id=dRXxFEY8ZE) |                      | 7.50         |
+| [ADIFF: Explaining audio difference using natural language](https://openreview.net/forum?id=l4fMj4Vnly) |                      | 7.50         |
+| [ Both Ears Wide Open: Towards Language-Driven Spatial Audio Generation](https://openreview.net/forum?id=qPx3i9sMxv) |                      | 7.50         |
+| [Presto! Distilling Steps and Layers for Accelerating Music Generation](https://openreview.net/forum?id=Gj5JTAwdoy) | spotlight，**music** | 7.25         |
+| [FlowDec: A flow-based full-band general audio codec with high perceptual quality](https://openreview.net/forum?id=uxDFlPGRLX) |                      | 7.00         |
+| [ I Can Hear You: Selective Robust Training for Deepfake Audio Detection](https://openreview.net/forum?id=2GcR9bO620) | con                  | 7.00         |
+| [ SSLAM: Enhancing Self-Supervised Models with Audio Mixtures for Polyphonic Soundscapes](https://openreview.net/forum?id=odU59TxdiB) |                      | 7.00         |
+| [RFWave: Multi-band Rectified Flow for Audio Waveform Reconstruction](https://openreview.net/forum?id=gRmWtOnTLK) |                      | 6.80         |
+| [Enhancing Deception Detection with Cognitive Load Features: An Audio-Visual Approach](https://openreview.net/forum?id=WNZNsyzcaB) |                      | 6.75         |
+| [ Sylber: Syllabic Embedding Representation of Speech from Raw Audio](https://openreview.net/forum?id=FyMjfDQ9RO) |                      | 6.75         |
+| [Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data](https://openreview.net/forum?id=bR1J7SpzrD) |                      | 6.75         |
+| [ Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation](https://openreview.net/forum?id=WEQL5ksDnB) |                      | 6.75         |
+| [ Audio Large Language Models Can Be Descriptive Speech Quality Evaluators](https://openreview.net/forum?id=U42TkrEDzb) |                      | 6.75         |
+| [ Fugatto 1: Foundational Generative Audio Transformer Opus 1](https://openreview.net/forum?id=B2Fqu7Y2cd) |                      | 6.75         |
+| [WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling](https://openreview.net/forum?id=yBlVlS2Fd9) | 35810                | 6.50         |
+| [EcoFace: Audio-Visual Emotional Co-Disentanglement Speech-Driven 3D Talking Face Generation](https://openreview.net/forum?id=iDcWYtYUwX) |                      | 6.50         |
+| [MuPT: A Generative Symbolic Music Pretrained Transformer](https://openreview.net/forum?id=iAK9oHp4Zz) | **music**            | 6.50         |
+| [ViSAGe: Video-to-Spatial Audio Generation](https://openreview.net/forum?id=8bF1Vaj9tm) |                      | 6.40         |
+| [Aligned Better, Listen Better For Audio-Visual Large Language Models](https://openreview.net/forum?id=1SYUKPeM12) |                      | 6.25         |
+| [Contrastive Learning from Synthetic Audio Doppelgängers](https://openreview.net/forum?id=XRtyVELwr6) |                      | 6.25         |
+| [AVHBench: A Cross-Modal Hallucination Benchmark for Audio-Visual Large Language Models](https://openreview.net/forum?id=jTEKTdI3K9) |                      | 6.20         |
+| [ Elucidating the Design Space of Text-to-Audio Models](https://openreview.net/forum?id=xmgvF0sLIn) | 5568, re             | 6.00         |
+| [Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation](https://openreview.net/forum?id=rkzabmWl5k) |                      | 6.00         |
+| [Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation](https://openreview.net/forum?id=agbiPPuSeQ) |                      | 6.00         |
+| [ Rethinking Audio-Visual Adversarial Vulnerability from Temporal and Modality Perspectives](https://openreview.net/forum?id=ePJrZLIqpV) |                      | 6.00         |
+| [Talking Turns: Benchmarking Audio Foundation Models on Turn-Taking Dynamics](https://openreview.net/forum?id=2e4ECh0ikn) |                      | 5.80         |
+| [Active Audio Cancellation with Multi-Band Mamba Network](https://openreview.net/forum?id=LwLaFpJpfM) | 3668, re             | 5.75         |
+| [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://openreview.net/forum?id=VeSsiD0DP9) | 5666, re             | 5.75         |
+| [AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models](https://openreview.net/forum?id=0BujOfTqab) | **3388, accepted**   | 5.50         |
+| [ NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics](https://openreview.net/forum?id=hJVdwBpWjt) | **3,5,8, accepted**  | 5.33         |
+| [ Taming Data and Transformers for Audio Generation](https://openreview.net/forum?id=lidVssyB7G) | 3666, re             | 5.25         |
+| [ AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation](https://openreview.net/forum?id=u8SYRtXDsZ) | 5556, re             | 5.25         |
+| [Segment, Associate, and Classify: Decoupled Audio-Visual Segmentation Framework](https://openreview.net/forum?id=8VnS320esG) | 5556 withdraw        | 5.25         |
+| [Reverse the auditory processing pathway: Coarse-to-fine audio reconstruction from fMRI](https://openreview.net/forum?id=3JoLo0mmHH) | 3558, re             | 5.25         |
+| [ Collaborative Hybrid Propagator for Temporal Misalignment in Audio-Visual Segmentation](https://openreview.net/forum?id=yqJoqtUwSI) | 35558, withdraw      | 5.20         |
+| [T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback](https://openreview.net/forum?id=H8QvefExFf) | 3566, withdraw       | 5.00         |
 
 ### Summary
 
@@ -624,6 +626,8 @@ https://2024.aclweb.org/program/finding_papers/
 
 ### Speech
 
+60 papers
+
 | Paper                                                        | Authorlist                                                   | Status                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators** | *Yuchen Hu, Chen Chen, Chao-Han Huck Yang, Ruizhe Li, Dong Zhang, Zhehuai Chen, EngSiong Chng* | Long, [link](https://aclanthology.org/2024.acl-long.5.pdf)   |
@@ -657,6 +661,10 @@ https://2024.aclweb.org/program/finding_papers/
 | **Growing Trees on Sounds: Assessing Strategies for End-to-End Dependency Parsing of Speech** | *Adrien Pupier, Maximin Coavoux, Jérôme Goulian, Benjamin Lecouteux* | Short, [link](https://aclanthology.org/2024.acl-short.22.pdf) |
 | **Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster** | *Agostina Calabrese, Leonardo Neves, Neil Shah, Maarten W. Bos, Björn Ross, Mirella Lapata, Francesco Barbieri* | https://aclanthology.org/2024.acl-short.38.pdf               |
 | **On the Semantic Latent Space of Diffusion-Based Text-To-Speech Models** | *Miri Varshavsky, Roy Hirsch, Regev Cohen, Tomer Golany, Daniel Freedman, Ehud Rivlin* | https://aclanthology.org/2024.acl-short.24.pdf               |
+| **StreamVoice: Streamable Context-Aware Language Modeling for Real-time Zero-Shot Voice Conversion** | *Zhichao Wang, Yuanzhe Chen, Xinsheng Wang, Lei Xie, Yuping Wang* | **voice**                                                    |
+| **Robust Singing Voice Transcription Serves Synthesis**      | *Ruiqi Li, Yu Zhang, Yongqi Wang, Zhiqing Hong, Rongjie Huang, Zhou Zhao* | **voice**                                                    |
+| **Make-A-Voice: Revisiting Voice Large Language Models as Scalable Multilingual and Multitask Learners** | *Rongjie Huang, Chunlei Zhang, Yongqi Wang, Dongchao Yang, Jinchuan Tian, Zhenhui Ye, Luping Liu, Zehan Wang, Ziyue Jiang, Xuankai Chang, Jiatong Shi, CHAO WENG, Zhou Zhao, Dong Yu* | **voice**                                                    |
+| [Codec-SUPERB: An In-Depth Analysis of Sound Codec Models](https://aclanthology.org/2024.findings-acl.616.pdf) | *Haibin Wu, Ho-Lam Chung, Yi-Cheng Lin, Yuan-Kuei Wu, Xuanjun Chen, Yu-Chi Pai, Hsiu-Hsuan Wang, Kai-Wei Chang, Alexander H. Liu, Hung-yi Lee* | **Findings**                                                 |
 | **Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models** |                                                              | Findings,                                                    |
 | **Wav2SQL: Direct Generalizable Speech-To-SQL Parsing**      |                                                              |                                                              |
 | **Multi-Modal Retrieval For Large Language Model Based Speech Recognition** |                                                              |                                                              |
@@ -687,6 +695,8 @@ https://2024.aclweb.org/program/finding_papers/
 
 https://2024.aclweb.org/program/finding_papers/
 
+8 papers
+
 | Paper                                                        | Authorlist                                                   | Status                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension** | *Qian Yang, Jin Xu, Wenrui Liu, Yunfei Chu, Ziyue Jiang, Xiaohuan Zhou, Yichong Leng, Yuanjun Lv, Zhou Zhao, Chang Zhou, Jingren Zhou* | Long, [link](https://aclanthology.org/2024.acl-long.109.pdf) |
@@ -696,6 +706,7 @@ https://2024.aclweb.org/program/finding_papers/
 | **MuTox: Universal MUltilingual Audio-based TOXicity Dataset and Zero-shot Detector** | *Marta R. Costa-jussà, Mariano Coria Meglioli, Pierre Andrews, David Dale, Prangthip Hansanti, Elahe Kalbassi, Alexandre Mourachko, Christophe Ropers, Carleigh Wood* | Findings                                                     |
 | **X-ACE: Explainable and Multi-factor Audio Captioning Evaluation** | *Qian Wang, Jia-Chen Gu, Zhen-Hua Ling*                      |                                                              |
 | **Deepfake Defense: Constructing and Evaluating a Specialized Urdu Deepfake Audio Dataset** | *Sheza Munir, Wassay Sajjad, Mukeet Raza, Emaan Mujahid Abbas, Abdul Hameed Azeemi, Ihsan Ayyub Qazi, Agha Ali Raza* |                                                              |
+| **Beyond Orthography: Automatic Recovery of Short Vowels and Dialectal Sounds in Arabic** | *Yassine El Kheir, Hamdy Mubarak, Ahmed Ali, Shammur Absar Chowdhury* | **sound**                                                    |
 
 ## EMNLP'24
 
@@ -704,6 +715,8 @@ useful link: https://2024.emnlp.org/program/accepted_main_conference/
 https://2024.emnlp.org/program/accepted_findings/
 
 ### Speech
+
+58 papers
 
 | Paper                                                        | Authorlist                                                   | Status                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -768,21 +781,32 @@ https://2024.emnlp.org/program/accepted_findings/
 
 ### Audio
 
-| Paper                                                        | Authorlist                                                   | Status   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-| **IDEAW: Robust Neural Audio Watermarking with Invertible Dual-Embedding** | Pengcheng Li, Xulong Zhang, Jing Xiao, Jianzong Wang         | Main     |
-| **Cross-Domain Audio Deepfake Detection: Dataset and Analysis** | Yuang Li, Min Zhang, Mengxin Ren, Xiaosong Qiao, Miaomiao Ma, Daimeng Wei, Hao Yang |          |
-| **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities** | Sreyan Ghosh, Sonal Kumar, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha |          |
-| **OpenSep: Leveraging Large Language Models with Textual Inversion for Open World Audio Separation** | Tanvir Mahmud, Diana Marculescu                              |          |
-| **AudioVSR: Enhancing Video Speech Recognition with Audio Data** | Xiaoda Yang, Xize Cheng, Jiaqi Duan, Hongshun Qiu, Minjie Hong, Minghui Fang, Shengpeng Ji, Jialong Zuo, Zhiqing Hong, Zhimeng Zhang, Tao Jin |          |
-| **PALM: Few-Shot Prompt Learning for Audio Language Models** | Asif Hanif, Maha Tufail Agro, Mohammad Areeb Qazi, Hanan Aldarmaki |          |
-| **TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control** | Yu Zhang Ziyue Jiang Ruiqi Li Changhao Pan Jinzheng He Rongjie Huang Chuxin Wang Zhou Zhao |          |
-| **Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models** | Yiming Chen, Xianghu Yue, Xiaoxue Gao, Chen Zhang, Luis Fernando D’Haro, Robby T. Tan, Haizhou Li | Findings |
-| **AlanaVLM: A Multimodal Embodied AI Foundation Model for Egocentric Video Understanding** | Alessandro Suglia, Claudio Greco, Katie Baker, Jose L. Part, Ioannis Papaioannou, Arash Eshghi, Ioannis Konstas, Oliver Lemon |          |
-| **Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review** | Pranab Sahoo, Prabhash Meharia, Akash Ghosh, Sriparna Saha, Vinija Jain, Aman Chadha |          |
-| **Audio-Based Linguistic Feature Extraction for Enhancing Multi-lingual and Low-Resource Text-to-Speech** | Youngjae Kim, Yejin Jeon, Gary Lee                           |          |
-| **SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering** | Tianyu Yang, Yiyang Nan, Lisen Dai, Zhenwen Liang, Yapeng Tian, Xiangliang Zhang |          |
-| **PyramidCodec: Hierarchical Codec for Long-form Music Generation in Audio Domain** | Jianyi Chen, Zheqi DAI, Zhen Ye, Xu Tan, Qifeng Liu, Yike Guo, Wei Xue |          |
+22 papers
+
+| Paper                                                        | Authorlist                                                   | Status    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | --------- |
+| **IDEAW: Robust Neural Audio Watermarking with Invertible Dual-Embedding** | Pengcheng Li, Xulong Zhang, Jing Xiao, Jianzong Wang         | Main      |
+| **Cross-Domain Audio Deepfake Detection: Dataset and Analysis** | Yuang Li, Min Zhang, Mengxin Ren, Xiaosong Qiao, Miaomiao Ma, Daimeng Wei, Hao Yang |           |
+| **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities** | Sreyan Ghosh, Sonal Kumar, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha |           |
+| **OpenSep: Leveraging Large Language Models with Textual Inversion for Open World Audio Separation** | Tanvir Mahmud, Diana Marculescu                              |           |
+| **AudioVSR: Enhancing Video Speech Recognition with Audio Data** | Xiaoda Yang, Xize Cheng, Jiaqi Duan, Hongshun Qiu, Minjie Hong, Minghui Fang, Shengpeng Ji, Jialong Zuo, Zhiqing Hong, Zhimeng Zhang, Tao Jin |           |
+| **PALM: Few-Shot Prompt Learning for Audio Language Models** | Asif Hanif, Maha Tufail Agro, Mohammad Areeb Qazi, Hanan Aldarmaki |           |
+| **TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control** | Yu Zhang Ziyue Jiang Ruiqi Li Changhao Pan Jinzheng He Rongjie Huang Chuxin Wang Zhou Zhao | **voice** |
+| **Voices Unheard: NLP Resources and Models for Yorùbá Regional Dialects** | Orevaoghene Ahia, Anuoluwapo Aremu, Diana Abagyan, Hila Gonen, David Ifeoluwa Adelani, Daud Abolade, Noah A. Smith, Yulia Tsvetkov | **voice** |
+| **EmoKnob: Enhance Voice Cloning with Fine-Grained Emotion Control** | Haozhe Chen, Run Chen, Julia Hirschberg                      | **voice** |
+| **Voices in a Crowd: Searching for clusters of unique perspectives** | Nikolas Vitsakis, Amit Parekh, Ioannis Konstas               | **voice** |
+| **With Ears to See and Eyes to Hear: Sound Symbolism Experiments with Multimodal Large Language Models** | Tyler Loakman, YUCHENG LI, Chenghua Lin                      | **sound** |
+| **Adaptive Immune-based Sound-Shape Code Substitution for Adversarial Chinese Text Attacks** | Ao Wang, Xinghao Yang, Chen Li, Bao-di Liu, Weifeng Liu      | **sound** |
+| **A SMART Mnemonic Sounds like “Glue Tonic”: Mixing LLMs with Student Feedback to Make Mnemonic Learning Stick** | Nishant Balepur, Matthew Shu, Alexander Hoyle, Alison Robey, Shi Feng, Seraphina Goldfarb-Tarrant, Jordan Lee Boyd-Graber | **sound** |
+| **A Fast and Sound Tagging Method for Discontinuous Named-Entity Recognition** | Caio Filippo Corro                                           | **sound** |
+| **Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models** | Yiming Chen, Xianghu Yue, Xiaoxue Gao, Chen Zhang, Luis Fernando D’Haro, Robby T. Tan, Haizhou Li | Findings  |
+| **AlanaVLM: A Multimodal Embodied AI Foundation Model for Egocentric Video Understanding** | Alessandro Suglia, Claudio Greco, Katie Baker, Jose L. Part, Ioannis Papaioannou, Arash Eshghi, Ioannis Konstas, Oliver Lemon |           |
+| **Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Review** | Pranab Sahoo, Prabhash Meharia, Akash Ghosh, Sriparna Saha, Vinija Jain, Aman Chadha |           |
+| **Audio-Based Linguistic Feature Extraction for Enhancing Multi-lingual and Low-Resource Text-to-Speech** | Youngjae Kim, Yejin Jeon, Gary Lee                           |           |
+| **SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering** | Tianyu Yang, Yiyang Nan, Lisen Dai, Zhenwen Liang, Yapeng Tian, Xiangliang Zhang |           |
+| **PyramidCodec: Hierarchical Codec for Long-form Music Generation in Audio Domain** | Jianyi Chen, Zheqi DAI, Zhen Ye, Xu Tan, Qifeng Liu, Yike Guo, Wei Xue |           |
+| **Enhancing Polyglot Voices by Leveraging Cross-Lingual Fine-Tuning in Any-to-One Voice Conversion** | Giuseppe Ruggiero, Matteo Testa, Jurgen Van de Walle, Luigi Di Caro | **voice** |
+| **HSDreport: Heart Sound Diagnosis with Echocardiography Reports** | Zihan Zhao, Pingjie Wang, Liudan Zhao, Yuchen Yang, Ya Zhang, Kun Sun, Xin Sun, Xin Zhou, Yu Wang, Yanfeng Wang | **sound** |
 
 ## NAACL'25
 
