@@ -4,7 +4,7 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 
 👏 **Feel free to collaborate and contribute to this GitHub repo.**
 
-🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 24 May, 2025
+🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 16 May, 2025
 
 🎉 [01/23/2025] UPDATE ***ICLR 2025*** conference papers successfully!
 
@@ -36,7 +36,7 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 
 🎉 [05/16/2025] UPDATE ***ICML 2025*** conference papers successfully!
 
-🎉 [05/22/2025] Adjust ***NeurIPS2024-2023, ICML2025-2023*** conference papers successfully!
+🎉 [05/22/2025] Adjust ***NeurIPS2024-2023, ICML2025-2023, ACL Findings*** conference papers successfully!
 
 🎉 [05/24/2025] ADD ***ACL 2025 (part)*** conference papers successfully!
 
@@ -656,6 +656,31 @@ useful link: https://2024.aclweb.org/program/main_conference_papers/#long-papers
 | **Growing Trees on Sounds: Assessing Strategies for End-to-End Dependency Parsing of Speech** | *Adrien Pupier, Maximin Coavoux, Jérôme Goulian, Benjamin Lecouteux* | Short, [link](https://aclanthology.org/2024.acl-short.22.pdf) |
 | **Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster** | *Agostina Calabrese, Leonardo Neves, Neil Shah, Maarten W. Bos, Björn Ross, Mirella Lapata, Francesco Barbieri* | https://aclanthology.org/2024.acl-short.38.pdf               |
 | **On the Semantic Latent Space of Diffusion-Based Text-To-Speech Models** | *Miri Varshavsky, Roy Hirsch, Regev Cohen, Tomer Golany, Daniel Freedman, Ehud Rivlin* | https://aclanthology.org/2024.acl-short.24.pdf               |
+| **Listen Again and Choose the Right Answer: A New Paradigm for Automatic Speech Recognition with Large Language Models** | https://2024.aclweb.org/program/finding_papers/              | findings,                                                    |
+| **Wav2SQL: Direct Generalizable Speech-To-SQL Parsing**      |                                                              |                                                              |
+| **Multi-Modal Retrieval For Large Language Model Based Speech Recognition** |                                                              |                                                              |
+| **ViHateT5: Enhancing Hate Speech Detection in Vietnamese With a Unified Text-to-Text Transformer Model** |                                                              |                                                              |
+| **Speech-based Slot Filling using Large Language Models**    |                                                              |                                                              |
+| **LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models** |                                                              |                                                              |
+| **Semantic Role Labeling from Chinese Speech via End-to-End Learning** |                                                              |                                                              |
+| **Revisiting Interpolation Augmentation for Speech-to-Text Generation** |                                                              |                                                              |
+| **Self-Supervised Singing Voice Pre-Training towards Speech-to-Singing Conversion** |                                                              |                                                              |
+| **TransFace: Unit-Based Audio-Visual Speech Synthesizer for Talking Head Translation** |                                                              |                                                              |
+| **SpeechGuard: Exploring the Adversarial Robustness of Multi-modal Large Language Models** |                                                              |                                                              |
+| **SharedCon: Implicit Hate Speech Detection using Shared Semantics** |                                                              |                                                              |
+| **IndicVoices: Towards building an Inclusive Multilingual Speech Dataset for Indian Languages** |                                                              |                                                              |
+| **wav2vec-S: Adapting Pre-trained Speech Models for Streaming** |                                                              |                                                              |
+| **On the Evaluation of Speech Foundation Models for Spoken Language Understanding** |                                                              |                                                              |
+| **Integrating Pre-Trained Speech and Language Models for End-to-End Speech Recognition** |                                                              |                                                              |
+| **Tox-BART: Leveraging Toxicity Attributes for Explanation Generation of Implicit Hate Speech** |                                                              |                                                              |
+| **Pushing the Limits of Zero-shot End-to-End Speech Translation** |                                                              |                                                              |
+| **Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation** |                                                              |                                                              |
+| **emotion2vec: Self-Supervised Pre-Training for Speech Emotion Representation** |                                                              |                                                              |
+| **Label-aware Hard Negative Sampling Strategies with Momentum Contrastive Learning for Implicit Hate Speech Detection** |                                                              |                                                              |
+| **Aligning Speech Segments Beyond Pure Semantics**           |                                                              |                                                              |
+| **CTC-based Non-autoregressive Textless Speech-to-Speech Translation** |                                                              |                                                              |
+| **MELD-ST: An Emotion-aware Speech Translation Dataset**     |                                                              |                                                              |
+| **Part-of-speech Tagging for Extremely Low-resource Indian Languages** |                                                              |                                                              |
 
 ### Audio
 
@@ -665,6 +690,9 @@ useful link: https://2024.aclweb.org/program/main_conference_papers/#long-papers
 | **StreamAtt: Direct Streaming Speech-to-Text Translation with Attention-based Audio History Selection** | *Sara Papi, Marco Gaido, Matteo Negri, Luisa Bentivogli*     | https://aclanthology.org/2024.acl-long.202.pdf               |
 | **M$^3$AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset** | *Zhe Chen, Heyang Liu, Wenyi Yu, Guangzhi Sun, Hongcheng Liu, Ji Wu, Chao Zhang, Yu Wang, Yanfeng Wang* | https://aclanthology.org/2024.acl-long.489.pdf               |
 | **XLAVS-R: Cross-Lingual Audio-Visual Speech Representation Learning for Noise-Robust Speech Perception** | *HyoJung Han, Mohamed Anwar, Juan Pino, Wei-Ning Hsu, Marine Carpuat, Bowen Shi, Changhan Wang* | https://aclanthology.org/2024.acl-long.697.pdf               |
+| **MuTox: Universal MUltilingual Audio-based TOXicity Dataset and Zero-shot Detector** | https://2024.aclweb.org/program/finding_papers/              | findings                                                     |
+| **X-ACE: Explainable and Multi-factor Audio Captioning Evaluation** |                                                              |                                                              |
+| **Deepfake Defense: Constructing and Evaluating a Specialized Urdu Deepfake Audio Dataset** |                                                              |                                                              |
 
 ## EMNLP'24
 
@@ -942,7 +970,7 @@ The number of this conference (speech&audio) is small.
 
 ### Speech
 
-may not complete. (Welcome to issue to add🔥, if not correct, welcome to issue too.)
+may not complete. (Welcome to issue to add🔥, if not correct, welcome to issue too.) now 31 papers
 
 | Paper                                                        | Authorlist | Status                                               |
 | ------------------------------------------------------------ | ---------- | ---------------------------------------------------- |
@@ -968,6 +996,7 @@ may not complete. (Welcome to issue to add🔥, if not correct, welcome to issue
 | MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens |            | [code](https://github.com/JeongHun0716/MMS-LLaMA)    |
 | Autoregressive Speech Synthesis without Vector Quantization  |            |                                                      |
 | [SimulS2S-LLM: Unlocking Simultaneous Inference of Speech LLMs for Speech-to-Speech Translation](https://arxiv.org/abs/2504.15509) |            |                                                      |
+| LLaMA-Omni2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis |            | [code](https://github.com/ictnlp/LLaMA-Omni2)        |
 | **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training** |            | Findings                                             |
 | Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation |            |                                                      |
 | Improve Language Model and Brain Alignment via Associative Memory |            |                                                      |
@@ -979,7 +1008,7 @@ may not complete. (Welcome to issue to add🔥, if not correct, welcome to issue
 
 ### Audio
 
-may not complete. (Welcome to issue to add🔥, if not correct, welcome to issue too.)
+may not complete. (Welcome to issue to add🔥, if not correct, welcome to issue too.) now 4 papers
 
 | Paper                                                        | Authorlist | Status                                                     |
 | ------------------------------------------------------------ | ---------- | ---------------------------------------------------------- |
