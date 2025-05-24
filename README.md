@@ -2,7 +2,7 @@
 
 > It is a repo including speech&audio papers published in top conference. 
  **Welcome to star⭐ Discuss in Issues or collaborate via PRs~👏 Feel free to contact📧 me via zhangbw0102@gmail.com.**
-
+We build a **WeChat Group** and invite speech&audio researchers!![微信群二维码](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference/raw/main/wechat.jpg)
 🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 24 May, 2025
 
 🎉 [01/23/2025] UPDATE ***ICLR 2025*** conference papers successfully!
