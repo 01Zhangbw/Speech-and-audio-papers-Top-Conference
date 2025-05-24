@@ -1,8 +1,7 @@
 # Speech and audio papers@Top Conference (Update Regularly)
 
-> This is a repo including speech&audio papers published in top conference🎵
- **Your ⭐ Star is my biggest motivation to keep updating! Welcome to Issue or collaborate via PRs👏 Feel free to contact📧 me via zhangbw0102@gmail.com.**
-> Hope you think it's helpful😊
+> It is a repo including speech&audio papers published in top conference. 
+ **Welcome to star⭐ Discuss in Issues or collaborate via PRs~👏 Feel free to contact📧 me via zhangbw0102@gmail.com.**
 
 🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 24 May, 2025
 
