@@ -1,8 +1,7 @@
 # Speech and audio papers@Top Conference (Update Regularly)
 
-Hi there! If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
+Hi there! Your ⭐ Star is my biggest motivation to keep updating! Welcome to discuss in Issues or collaborate via PRs👏 You can also contact📧 me via zhangbw0102@gmail.com
 
-👏 **Feel free to collaborate and contribute to this GitHub repo.**
 
 🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 16 May, 2025
 
