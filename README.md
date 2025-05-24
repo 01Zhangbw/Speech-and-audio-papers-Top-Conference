@@ -1,9 +1,9 @@
 # Speech and audio papers@Top Conference (Update Regularly)
 
-Hi there! Your ⭐ Star is my biggest motivation to keep updating! Welcome to discuss in Issues or collaborate via PRs👏 You can also contact📧 me via zhangbw0102@gmail.com
+Hi there! Your ⭐ Star is my biggest motivation to keep updating! Welcome to discuss in Issues or collaborate via PRs👏 Feel free to contact📧 me via zhangbw0102@gmail.com
 
 
-🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 16 May, 2025
+🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 24 May, 2025
 
 🎉 [01/23/2025] UPDATE ***ICLR 2025*** conference papers successfully!
 
