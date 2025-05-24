@@ -4,7 +4,7 @@ Hi there! If you think this program is useful, welcome to star⭐. If you want t
 
 👏 **Feel free to collaborate and contribute to this GitHub repo.**
 
-🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 16 May, 2025
+🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 24 May, 2025
 
 🎉 [01/23/2025] UPDATE ***ICLR 2025*** conference papers successfully!
 
