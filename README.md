@@ -1,7 +1,7 @@
 # Speech and audio papers@Top Conference (Update Regularly)
 
-> It is a repo including speech&audio papers published in top conference. 
- **Welcome to star⭐ Discuss in Issues or collaborate via PRs~👏 Feel free to contact📧 me via zhangbw0102@gmail.com.**
+**Welcome to star⭐ Discuss in Issues or collaborate via PRs~👏 **
+**Feel free to contact📧 me via zhangbw0102@gmail.com.**
 
 🎉 [01/23/2025] UPDATE ***ICLR 2025*** conference papers successfully!
 
@@ -82,9 +82,6 @@
 * [ICML'25](#ICML25)
   * [Speech](#Speech-14)
   * [Audio](#Audio-14)
-* [ACL'25](#ACL25)
-  * [Speech](#Speech-15)
-  * [Audio](#Audio-15)
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 * [Citation](#citation)
 * [License](license)
@@ -980,86 +977,6 @@ The number of this conference (speech&audio) is small.
 | [MuseControlLite: Multifunctional Music Generation with Lightweight Conditioners](https://icml.cc/virtual/2025/poster/45072) |            |                                         |
 | [Gaussian Mixture Flow Matching Models](https://arxiv.org/abs/2504.05304) |            | flow matching                           |
 | [SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation](https://icml.cc/virtual/2025/poster/44792) |            | song                                    |
-
-
-
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-
-
-
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-
-
-
-### 
-
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
 
 ## Useful Survey & Awesome Link
 
