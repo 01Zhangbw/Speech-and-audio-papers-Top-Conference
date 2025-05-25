@@ -1,7 +1,7 @@
 # Speech and audio papers@Top Conference (Update Regularly)
 
-**Welcome to star⭐ Discuss in Issues or collaborate via PRs~👏 **
-**Feel free to contact📧 me via zhangbw0102@gmail.com.**
+**Welcome to star⭐ Discuss in Issues or collaborate via PRs~👏**
+Feel free to contact📧 me via zhangbw0102@gmail.com.
 
 🎉 [01/23/2025] UPDATE ***ICLR 2025*** conference papers successfully!
 
