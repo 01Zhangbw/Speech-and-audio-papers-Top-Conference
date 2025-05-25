@@ -2,8 +2,6 @@
 
 > It is a repo including speech&audio papers published in top conference. 
  **Welcome to star⭐ Discuss in Issues or collaborate via PRs~👏 Feel free to contact📧 me via zhangbw0102@gmail.com.**
-We build a **WeChat Group** and invite speech&audio researchers!![微信群二维码](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference/raw/main/wechat.jpg)
-🔥 NEW UPDATE: ~~31 Jan, 2025. 新年快乐！~~ 24 May, 2025
 
 🎉 [01/23/2025] UPDATE ***ICLR 2025*** conference papers successfully!
 
@@ -34,12 +32,6 @@ We build a **WeChat Group** and invite speech&audio researchers!![微信群二�
 🎉 [04/22/2025] UPDATE ***IJCAI 2024*** conference papers successfully!
 
 🎉 [05/16/2025] UPDATE ***ICML 2025*** conference papers successfully!
-
-🎉 [05/22/2025] Adjust ***NeurIPS2024-2023, ICML2025-2023, ACL Findings*** conference papers successfully!
-
-🎉 [05/24/2025] ADD ***ACL 2025 (part)*** conference papers successfully!
-
-🎉 [05/24/2025] UPDATE ***ECCV 2024*** conference papers successfully!
 
 [Speech and audio papers@Top Conference](#speech-and-audio-paperstop-conference)
 
@@ -93,9 +85,6 @@ We build a **WeChat Group** and invite speech&audio researchers!![微信群二�
 * [ACL'25](#ACL25)
   * [Speech](#Speech-15)
   * [Audio](#Audio-15)
-* [ECCV'24](#ECCV24)
-  * [Speech](#Speech-16)
-  * [Audio](#Audio-16)
 * [Useful Survey & Awesome Link](#useful-survey--awesome-link)
 * [Citation](#citation)
 * [License](license)
@@ -992,110 +981,85 @@ The number of this conference (speech&audio) is small.
 | [Gaussian Mixture Flow Matching Models](https://arxiv.org/abs/2504.05304) |            | flow matching                           |
 | [SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation](https://icml.cc/virtual/2025/poster/44792) |            | song                                    |
 
-## ACL'25
 
-### Speech
 
-may not complete. (Welcome to issue to add🔥, if not correct, welcome to issue too.) now 31 papers
+|      |      |      |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
 
-| Paper                                                        | Authorlist | Status                                               |
-| ------------------------------------------------------------ | ---------- | ---------------------------------------------------- |
-| [Advancing Zero-shot Text-to-Speech Intelligibility across Diverse Domains via Preference Alignment](https://arxiv.org/abs/2505.04113) |            |                                                      |
-| TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis |            | [code](https://github.com/AaronZ345/TCSinger2)       |
-| Counterspeech the ultimate shield! Multi-Conditioned Counterspeech Generation through Attributed Prefix Learning |            |                                                      |
-| Predicting Turn-Taking and Backchannel in Human-Machine Conversations Using Linguistic, Acoustic, and Visual Signals |            |                                                      |
-| WhiSPA: Semantically and Psychologically Aligned Whisper with Self-Supervised Contrastive and Student-Teacher Learning |            |                                                      |
-| MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder |            |                                                      |
-| **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching** |            | [paper](https://arxiv.org/abs/2410.06885)            |
-| CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought |            |                                                      |
-| GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement |            |                                                      |
-| [InSerter: Speech Instruction Following with Unsupervised Interleaved Pre-training](https://arxiv.org/abs/2503.02769) |            |                                                      |
-| [UniCodec: Unified Audio Codec with Single Domain-Adaptive Codebook](https://arxiv.org/abs/2502.20067) |            |                                                      |
-| [WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models](https://arxiv.org/abs/2502.14727) |            |                                                      |
-| Rhythm Controllable and Efficient Zero-Shot Voice Conversion via Shortcut Flow Matching |            |                                                      |
-| [Controlspeech: Towards simultaneous zero-shot speaker cloning and zero-shot language style control with decoupled codec](https://arxiv.org/abs/2406.01205) |            | [code](https://github.com/jishengpeng/ControlSpeech) |
-| [Language-codec: Reducing the gaps between discrete codec representation and speech language models](https://arxiv.org/abs/2402.12208) |            | [code](https://github.com/jishengpeng/Languagecodec) |
-| [OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://arxiv.org/abs/2410.17799) |            |                                                      |
-| Integrating Audio, Visual, and Semantic Information for Enhanced Multimodal Speaker Diarization on Multi-party Conversation |            |                                                      |
-| ChildMandarin: A Comprehensive Mandarin Speech Dataset for Young Children Aged 3-5 |            |                                                      |
-| OZSpeech: One-step Zero-shot Speech Synthesis with Learned-Prior-Conditioned Flow Matching |            | [code](https://github.com/ozspeech/OZSpeech)         |
-| MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens |            | [code](https://github.com/JeongHun0716/MMS-LLaMA)    |
-| Autoregressive Speech Synthesis without Vector Quantization  |            |                                                      |
-| [SimulS2S-LLM: Unlocking Simultaneous Inference of Speech LLMs for Speech-to-Speech Translation](https://arxiv.org/abs/2504.15509) |            |                                                      |
-| LLaMA-Omni2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis |            | [code](https://github.com/ictnlp/LLaMA-Omni2)        |
-| **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training** |            | Findings                                             |
-| Leveraging Unit Language Guidance to Advance Speech Modeling in Textless Speech-to-Speech Translation |            |                                                      |
-| Improve Language Model and Brain Alignment via Associative Memory |            |                                                      |
-| Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis |            |                                                      |
-| TAMP: Token-Adaptive Layerwise Pruning in Multimodal Large Language Models |            |                                                      |
-| Investigating and Enhancing Vision-Audio Capability in Omnimodal Large Language Models |            |                                                      |
-| Slamming: Training a Speech Language Model on One GPU in a Day |            |                                                      |
-| CS-Dialogue: A 104-Hour Dataset of Spontaneous Mandarin-English Code-Switching Dialogues for Speech Recognition |            |                                                      |
 
-### Audio
 
-may not complete. (Welcome to issue to add🔥, if not correct, welcome to issue too.) now 4 papers
+|      |      |      |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
 
-| Paper                                                        | Authorlist | Status                                                     |
-| ------------------------------------------------------------ | ---------- | ---------------------------------------------------------- |
-| T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback |            |                                                            |
-| CLaMP 3: Universal Music Information Retrieval Across Unaligned Modalities and Unseen Languages |            | [code](https://github.com/sanderwood/clamp3)               |
-| [SongComposer: A Large Language Model for Lyric and Melody Composition in Song Generation](https://arxiv.org/pdf/2402.17645) |            | [code](https://github.com/pjlab-songcomposer/songcomposer) |
-| [SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings](https://arxiv.org/abs/2502.12562) |            |                                                            |
 
-## ECCV'24
 
-### Speech
+### 
 
-https://eccv2024.ecva.net/virtual/2024/papers.html?search=speech
-
-6 papers
-
-| Paper                                                        | Authorlist | Status |
-| ------------------------------------------------------------ | ---------- | ------ |
-| [KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding](https://eccv2024.ecva.net/virtual/2024/poster/1279) |            | speech |
-| [Co-speech Gesture Video Generation with 3D Human Meshes](https://eccv2024.ecva.net/virtual/2024/poster/1751) |            |        |
-| [Look Hear: Gaze Prediction for Speech-directed Human Attention](https://eccv2024.ecva.net/virtual/2024/poster/1508) |            |        |
-| [S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis](https://eccv2024.ecva.net/virtual/2024/poster/2377) |            |        |
-| [All You Need is Your Voice: Emotional Face Representation with Audio Perspective for Emotional Talking Face Generation](https://eccv2024.ecva.net/virtual/2024/poster/891) |            | voice  |
-| [A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars](https://eccv2024.ecva.net/virtual/2024/poster/1995) |            | spoken |
-
-### Audio
-
-https://eccv2024.ecva.net/virtual/2024/papers.html?search=audio
-
-28 papers, many on audio-visual learning
-
-| Paper                                                        | Authorlist | Status |
-| ------------------------------------------------------------ | ---------- | ------ |
-| [Stepping Stones: A Progressive Training Strategy for Audio-Visual Semantic Segmentation](https://eccv2024.ecva.net/virtual/2024/poster/1479) |            | audio  |
-| [Siamese Vision Transformers are Scalable Audio-visual Learners](https://eccv2024.ecva.net/virtual/2024/poster/1838) |            |        |
-| [CoLeaF: A Contrastive-Collaborative Learning Framework for Weakly Supervised Audio-Visual Video Parsing](https://eccv2024.ecva.net/virtual/2024/poster/1837) |            |        |
-| [X-InstructBLIP: A Framework for Aligning Image, 3D, Audio, Video to LLMs and its Emergent Cross-modal Reasoning](https://eccv2024.ecva.net/virtual/2024/poster/1494) |            |        |
-| [Masked Generative Video-to-Audio Transformers with Enhanced Synchronicity](https://eccv2024.ecva.net/virtual/2024/poster/269) |            |        |
-| [CPM: Class-conditional Prompting Machine for Audio-visual Segmentation](https://eccv2024.ecva.net/virtual/2024/poster/349) |            |        |
-| [Spherical World-Locking for Audio-Visual Localization in Egocentric Videos](https://eccv2024.ecva.net/virtual/2024/poster/2491) |            |        |
-| [Learning Trimodal Relation for Audio-Visual Question Answering with Missing Modality](https://eccv2024.ecva.net/virtual/2024/poster/735) |            |        |
-| [EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions](https://eccv2024.ecva.net/virtual/2024/poster/543) |            |        |
-| [Self-Supervised Audio-Visual Soundscape Stylization](https://eccv2024.ecva.net/virtual/2024/poster/2128) |            |        |
-| [Audio-Synchronized Visual Animation](https://eccv2024.ecva.net/virtual/2024/poster/1399) |            |        |
-| [Meerkat: Audio-Visual Large Language Model for Grounding in Space and Time](https://eccv2024.ecva.net/virtual/2024/poster/2580) |            |        |
-| [Listen to Look into the Future: Audio-Visual Egocentric Gaze Anticipation](https://eccv2024.ecva.net/virtual/2024/poster/268) |            |        |
-| [CAT: Enhancing Multimodal Large Language Model to Answer Questions in Dynamic Audio-Visual Scenarios](https://eccv2024.ecva.net/virtual/2024/poster/348) |            |        |
-| [Ref-AVS: Refer and Segment Objects in Audio-Visual Scenes](https://eccv2024.ecva.net/virtual/2024/poster/2216) |            |        |
-| [ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer](https://eccv2024.ecva.net/virtual/2024/poster/1249) |            |        |
-| [Label-anticipated Event Disentanglement for Audio-Visual Video Parsing](https://eccv2024.ecva.net/virtual/2024/poster/1478) |            |        |
-| [Perceptual Evaluation of Audio-Visual Synchrony Grounded in Viewers’ Opinion Scores](https://eccv2024.ecva.net/virtual/2024/poster/1398) |            |        |
-| [Audio-driven Talking Face Generation with Stabilized Synchronization Loss](https://eccv2024.ecva.net/virtual/2024/poster/1635) |            |        |
-| [UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model](https://eccv2024.ecva.net/virtual/2024/poster/154) |            |        |
-| [Audio-visual Generalized Zero-shot Learning the Easy Way](https://eccv2024.ecva.net/virtual/2024/poster/2579) |            |        |
-| [Can Textual Semantics Mitigate Sounding Object Segmentation Preference?](https://eccv2024.ecva.net/virtual/2024/poster/736) |            | sound  |
-| [Modeling and Driving Human Body Soundfields through Acoustic Primitives](https://eccv2024.ecva.net/virtual/2024/poster/1280) |            |        |
-| [A Rotation-invariant Texture ViT for Fine-Grained Recognition of Esophageal Cancer Endoscopic Ultrasound Images](https://eccv2024.ecva.net/virtual/2024/poster/428) |            |        |
-| [Self-Supervised Audio-Visual Soundscape Stylization](https://eccv2024.ecva.net/virtual/2024/poster/2128) |            |        |
-| [CC-SAM: Enhancing SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation](https://eccv2024.ecva.net/virtual/2024/poster/2645) |            |        |
-| [Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos](https://eccv2024.ecva.net/virtual/2024/poster/533) |            |        |
-| [Domesticating SAM for Breast Ultrasound Image Segmentation via Spatial-frequency Fusion and Uncertainty Correction](https://eccv2024.ecva.net/virtual/2024/poster/1162) |            |        |
+|      |      |      |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
 
 ## Useful Survey & Awesome Link
 
